@@ -1,0 +1,3106 @@
+[
+    {
+        "question": "What is Oziza?",
+        "answer": "Oziza is a platform that offers health education and advice to Africans and empowers them to live a healthy life."
+    },
+    {
+        "question": "How can Oziza help me?",
+        "answer": "We provide accurate health information, answer your health questions, and guide you to taking better decision about your health."
+    },
+    {
+        "question": "Is Oziza free to use?",
+        "answer": "Yes, using Oziza is completely free."
+    },
+    {
+        "question": "Can I ask about any health condition?",
+        "answer": "Yes, you can ask about any health condition affecting Africans."
+    },
+    {
+        "question": "How do I know the health info is accurate?",
+        "answer": "Our content is based on research and reviewed by health professionals to ensure it’s reliable."
+    },
+    {
+        "question": "Can I talk to a doctor on Oziza?",
+        "answer": "We don't offer direct medical consultations, but we provide guidance on how to find healthcare services."
+    },
+    {
+        "question": "How can I find a healthcare facility near me?",
+        "answer": "Search our directory for healthcare facilities and services in your area."
+    },
+    {
+        "question": "Does Oziza work across Africa?",
+        "answer": "Yes, we provide health information relevant to all African countries."
+    },
+    {
+        "question": "Is Oziza available in local African languages?",
+        "answer": "Currently, it’s mainly in English, but we’re expanding to include more languages."
+    },
+    {
+        "question": "Can I ask for advice on mental health?",
+        "answer": "Yes, we offer information and support on mental health conditions."
+    },
+    {
+        "question": "How can I share my health experience?",
+        "answer": "Join our forums or communities to share your health journey with others."
+    },
+    {
+        "question": "Does Oziza support health prevention tips?",
+        "answer": "Yes, we provide prevention tips for various conditions like malaria, hypertension, etc."
+    },
+    {
+        "question": "What should I do if I have a fever?",
+        "answer": "Drink fluids, rest, and seek medical attention if it lasts more than a day or is severe."
+    },
+    {
+        "question": "What are common signs of malaria?",
+        "answer": "Fever, chills, headaches, and fatigue are common symptoms. Get tested if you suspect malaria."
+    },
+    {
+        "question": "Is traditional medicine safe?",
+        "answer": "Some traditional practices can be helpful, but always consult a doctor before using them."
+    },
+    {
+        "question": "How can I prevent high blood pressure?",
+        "answer": "Eat a balanced diet, exercise regularly, reduce salt intake, and manage stress."
+    },
+    {
+        "question": "What should I do if I suspect someone has a stroke?",
+        "answer": "Get them to a hospital immediately; early treatment is critical."
+    },
+    {
+        "question": "How do I know if I have diabetes?",
+        "answer": "Symptoms include frequent urination, extreme thirst, and tiredness. Get a blood sugar test."
+    },
+    {
+        "question": "Can I ask about sexual health?",
+        "answer": "Yes, we provide information on sexual health, contraception, and STDs."
+    },
+    {
+        "question": "How can I avoid HIV?",
+        "answer": "Practice safe sex, avoid sharing needles, and get regular HIV testing."
+    },
+    {
+        "question": "What should I eat to stay healthy?",
+        "answer": "A balanced diet with fruits, vegetables, proteins, and whole grains is essential."
+    },
+    {
+        "question": "Can I get advice on pregnancy?",
+        "answer": "Yes, we have plenty of information on prenatal care, delivery, and postpartum health."
+    },
+    {
+        "question": "How often should I go for a health checkup?",
+        "answer": "At least once a year or more frequently if you have a chronic condition."
+    },
+    {
+        "question": "What should I do if my child has a rash?",
+        "answer": "Keep the area clean and dry. If it worsens or persists, see a doctor."
+    },
+    {
+        "question": "What is the best way to prevent malaria?",
+        "answer": "Use mosquito nets, insect repellents, and take anti-malaria medication if needed."
+    },
+    {
+        "question": "Is it safe to exercise while pregnant?",
+        "answer": "Yes, light exercises like walking or swimming are generally safe, but consult your doctor."
+    },
+    {
+        "question": "How can I manage stress?",
+        "answer": "Practice relaxation techniques like deep breathing, meditation, or physical activity."
+    },
+    {
+        "question": "How do I know if I have COVID-19?",
+        "answer": "Common symptoms include fever, cough, and difficulty breathing. Get tested to confirm."
+    },
+    {
+        "question": "How can I lower my cholesterol?",
+        "answer": "Eat more fruits, vegetables, whole grains, and exercise regularly."
+    },
+    {
+        "question": "Can Oziza help me quit smoking?",
+        "answer": "Yes, we offer tips and resources to help you quit smoking."
+    },
+    {
+        "question": "What should I do if I have a persistent cough?",
+        "answer": "If it lasts more than three weeks, see a doctor as it could be a sign of a serious condition."
+    },
+    {
+        "question": "How do I treat diarrhea?",
+        "answer": "Stay hydrated, rest, and eat light foods. See a doctor if it persists for more than a day."
+    },
+    {
+        "question": "What are the early signs of cancer?",
+        "answer": "Unexplained weight loss, lumps, and persistent fatigue. See a doctor for a proper diagnosis."
+    },
+    {
+        "question": "Can I ask for advice about mental health issues?",
+        "answer": "Yes, we provide information on stress, depression, and other mental health challenges."
+    },
+    {
+        "question": "What is the best way to stay fit?",
+        "answer": "Regular physical activity like walking, running, or cycling is key to staying fit."
+    },
+    {
+        "question": "What is high blood pressure?",
+        "answer": "It’s when the pressure of your blood against your artery walls is too high. It can lead to heart disease."
+    },
+    {
+        "question": "How can I manage my asthma?",
+        "answer": "Avoid triggers, take your medication, and see your doctor regularly."
+    },
+    {
+        "question": "What should I do if I have back pain?",
+        "answer": "Rest, apply heat or ice, and avoid heavy lifting. See a doctor if it persists."
+    },
+    {
+        "question": "Can I get help on weight loss?",
+        "answer": "Yes, we provide healthy tips for managing your weight."
+    },
+    {
+        "question": "What should I do if I’m feeling dizzy?",
+        "answer": "Rest, drink water, and if it continues or worsens, see a doctor."
+    },
+    {
+        "question": "What’s the difference between a cold and the flu?",
+        "answer": "The flu is more severe, with symptoms like fever and body aches, while a cold is milder."
+    },
+    {
+        "question": "How can I boost my immune system?",
+        "answer": "Eat a balanced diet, exercise, get enough sleep, and manage stress."
+    },
+    {
+        "question": "What are the symptoms of depression?",
+        "answer": "Persistent sadness, loss of interest in activities, and changes in sleep or appetite."
+    },
+    {
+        "question": "Can I use Oziza to find hospitals?",
+        "answer": "Yes, we have a list of healthcare facilities across different African countries."
+    },
+    {
+        "question": "How do I manage a child with asthma?",
+        "answer": "Ensure they take their medication, avoid asthma triggers, and consult a doctor regularly."
+    },
+    {
+        "question": "What are the best exercises for heart health?",
+        "answer": "Aerobic exercises like walking, cycling, and swimming are great for heart health."
+    },
+    {
+        "question": "Can I prevent type 2 diabetes?",
+        "answer": "Yes, by maintaining a healthy weight, exercising, and eating a balanced diet."
+    },
+    {
+        "question": "Is drinking too much water bad?",
+        "answer": "Yes, too much water can lead to an imbalance of electrolytes in your body."
+    },
+    {
+        "question": "How do I deal with anxiety?",
+        "answer": "Practice relaxation techniques, talk to someone, and seek professional help if it persists."
+    },
+    {
+        "question": "What should I do if I’m experiencing chest pain?",
+        "answer": "Seek medical help immediately, as it could be a sign of a serious condition."
+    },
+    {
+        "question": "Can I prevent malaria?",
+        "answer": "Yes, using mosquito nets and insect repellents helps prevent malaria."
+    },
+    {
+        "question": "How can I treat heartburn?",
+        "answer": "Avoid spicy foods, eat smaller meals, and take antacids."
+    },
+    {
+        "question": "Is Oziza a replacement for visiting a doctor?",
+        "answer": "No, we provide information but encourage visiting a doctor for medical advice."
+    },
+    {
+        "question": "What causes headaches?",
+        "answer": "Stress, dehydration, lack of sleep, or underlying conditions like migraines."
+    },
+    {
+        "question": "How do I stop snoring?",
+        "answer": "Sleep on your side, avoid alcohol before bed, and maintain a healthy weight."
+    },
+    {
+        "question": "How do I treat eczema?",
+        "answer": "Use moisturizers, avoid irritants, and see a doctor for prescribed creams."
+    },
+    {
+        "question": "Can I manage diabetes without medication?",
+        "answer": "In some cases, lifestyle changes like diet and exercise can help, but consult your doctor."
+    },
+    {
+        "question": "What foods should I eat during pregnancy?",
+        "answer": "Focus on fruits, vegetables, lean proteins, and whole grains."
+    },
+    {
+        "question": "How often should I take malaria medication?",
+        "answer": "Follow the doctor's prescription, especially when traveling to high-risk areas."
+    },
+    {
+        "question": "Can children get high blood pressure?",
+        "answer": "Yes, it’s possible, and it should be managed with a doctor's advice."
+    },
+    {
+        "question": "Is high cholesterol dangerous?",
+        "answer": "Yes, it can lead to heart disease if not managed properly."
+    },
+    {
+        "question": "What’s the best way to prevent STDs?",
+        "answer": "Practice safe sex, use condoms, and get regular checkups."
+    },
+    {
+        "question": "How do I know if I’m dehydrated?",
+        "answer": "Thirst, dry mouth, and dark-colored urine are common signs."
+    },
+    {
+        "question": "How can I avoid getting food poisoning?",
+        "answer": "Cook food thoroughly, wash hands, and avoid cross-contamination in the kitchen."
+    },
+    {
+        "question": "What’s the difference between HIV and AIDS?",
+        "answer": "HIV is the virus that can lead to AIDS, the final stage of the infection."
+    },
+    {
+        "question": "How do I treat an insect bite?",
+        "answer": "Wash the area, apply a cold compress, and take antihistamines for itching."
+    },
+    {
+        "question": "What’s the best way to treat a cold?",
+        "answer": "Rest, stay hydrated, and use over-the-counter medications for symptoms."
+    },
+    {
+        "question": "How can I tell if I have allergies?",
+        "answer": "Common signs include sneezing, itchy eyes, and a runny nose."
+    },
+    {
+        "question": "Can stress cause physical illness?",
+        "answer": "Yes, chronic stress can lead to headaches, high blood pressure, and other conditions."
+    },
+    {
+        "question": "How can I improve my digestion?",
+        "answer": "Eat fiber-rich foods, drink plenty of water, and exercise regularly."
+    },
+    {
+        "question": "What are the symptoms of anemia?",
+        "answer": "Fatigue, dizziness, pale skin, and shortness of breath."
+    },
+    {
+        "question": "How can I quit drinking alcohol?",
+        "answer": "Seek support groups, avoid triggers, and create a plan to reduce intake gradually."
+    },
+    {
+        "question": "Can high blood sugar be reversed?",
+        "answer": "With lifestyle changes like diet and exercise, you can manage or reduce high blood sugar levels."
+    },
+    {
+        "question": "Is it safe to fast for long periods?",
+        "answer": "It depends on your health. Consult a doctor before starting long-term fasting."
+    },
+    {
+        "question": "What’s the best way to clean wounds?",
+        "answer": "Wash with clean water, apply antiseptic, and cover with a sterile bandage."
+    },
+    {
+        "question": "Can Oziza help with family planning advice?",
+        "answer": "Yes, we provide information on different family planning methods."
+    },
+    {
+        "question": "What are the signs of pneumonia?",
+        "answer": "Cough, fever, difficulty breathing, and chest pain."
+    },
+    {
+        "question": "How can I manage arthritis pain?",
+        "answer": "Stay active, maintain a healthy weight, and take prescribed pain relievers."
+    },
+    {
+        "question": "What’s the best treatment for acne?",
+        "answer": "Keep your skin clean, use acne-specific creams, and avoid picking at pimples."
+    },
+    {
+        "question": "Can poor hygiene cause diseases?",
+        "answer": "Yes, poor hygiene can lead to infections and diseases like diarrhea."
+    },
+    {
+        "question": "How can I prevent obesity?",
+        "answer": "Eat a balanced diet, exercise regularly, and avoid high-calorie foods."
+    },
+    {
+        "question": "What’s the best way to treat a burn?",
+        "answer": "Run cool water over it, cover with a sterile bandage, and seek medical help if severe."
+    },
+    {
+        "question": "Can drinking too much alcohol cause liver problems?",
+        "answer": "Yes, excessive alcohol consumption can lead to liver disease."
+    },
+    {
+        "question": "What are the symptoms of a heart attack?",
+        "answer": "Chest pain, shortness of breath, nausea, and pain in the arm or jaw."
+    },
+    {
+        "question": "What should I do if I have a nosebleed?",
+        "answer": "Sit upright, lean forward, and pinch your nose for 10 minutes."
+    },
+    {
+        "question": "How can I prevent the flu?",
+        "answer": "Get vaccinated, wash your hands often, and avoid close contact with sick people."
+    },
+    {
+        "question": "What are the risks of smoking?",
+        "answer": "Smoking increases the risk of lung cancer, heart disease, and other health issues."
+    },
+    {
+        "question": "How can I manage migraines?",
+        "answer": "Rest in a dark room, take prescribed medications, and avoid known triggers."
+    },
+    {
+        "question": "What’s the best way to prevent tooth decay?",
+        "answer": "Brush your teeth twice a day, floss, and visit a dentist regularly."
+    },
+    {
+        "question": "How can I tell if I have an infection?",
+        "answer": "Common signs are redness, swelling, pain, and fever."
+    },
+    {
+        "question": "Can I take painkillers during pregnancy?",
+        "answer": "Some painkillers are safe, but always consult your doctor before taking any medication."
+    },
+    {
+        "question": "What causes fatigue?",
+        "answer": "Lack of sleep, poor diet, dehydration, or underlying health issues."
+    },
+    {
+        "question": "How do I improve my mental health?",
+        "answer": "Stay active, connect with loved ones, practice mindfulness, and seek professional help if needed."
+    },
+    {
+        "question": "What’s the best way to manage allergies?",
+        "answer": "Avoid triggers, take antihistamines, and keep your home free of allergens."
+    },
+    {
+        "question": "How do I manage weight gain during pregnancy?",
+        "answer": "Eat healthy meals, stay active with light exercises, and consult your doctor."
+    },
+    {
+        "question": "Can I drink coffee if I have high blood pressure?",
+        "answer": "Limit caffeine intake, as it can raise blood pressure temporarily."
+    },
+    {
+        "question": "How can I prevent skin infections?",
+        "answer": "Keep your skin clean, moisturize regularly, and avoid sharing personal items like towels."
+    },
+    {
+        "question": "What are the benefits of breastfeeding?",
+        "answer": "It provides essential nutrients for the baby and strengthens their immune system."
+    },
+    {
+        "question": "How can I prevent constipation?",
+        "answer": "Eat high-fiber foods, drink plenty of water, and stay physically active."
+    },
+    {
+        "question": "What should I do if my child has a high fever?",
+        "answer": "Keep them hydrated, give them fever-reducing medication, and see a doctor if it persists."
+    },
+    {
+        "question": "Can children get diabetes?",
+        "answer": "Yes, children can develop type 1 or type 2 diabetes."
+    },
+    {
+        "question": "How can I avoid dehydration?",
+        "answer": "Drink water regularly, especially in hot weather or during physical activity."
+    },
+    {
+        "question": "What is the best way to treat a sprain?",
+        "answer": "Rest, apply ice, compress the area, and elevate it."
+    },
+    {
+        "question": "How do I know if I’m having an allergic reaction?",
+        "answer": "Symptoms include itching, swelling, difficulty breathing, and rashes."
+    },
+    {
+        "question": "Can I exercise if I have joint pain?",
+        "answer": "Yes, but focus on low-impact exercises like swimming or walking, and consult your doctor."
+    },
+    {
+        "question": "What’s the best way to avoid heart disease?",
+        "answer": "Maintain a healthy diet, exercise, avoid smoking, and control blood pressure."
+    },
+    {
+        "question": "What are the signs of a stroke?",
+        "answer": "Sudden numbness, confusion, difficulty speaking, and trouble seeing or walking."
+    },
+    {
+        "question": "How can I improve my sleep quality?",
+        "answer": "Stick to a regular sleep schedule, avoid caffeine, and create a relaxing bedtime routine."
+    },
+    {
+        "question": "What foods should I avoid if I have high cholesterol?",
+        "answer": "Limit foods high in saturated fats, like red meat, butter, and fried foods."
+    },
+    {
+        "question": "How do I treat indigestion?",
+        "answer": "Avoid spicy or fatty foods, eat smaller meals, and take antacids if needed."
+    },
+    {
+        "question": "What are the causes of insomnia?",
+        "answer": "Stress, anxiety, poor sleep habits, or underlying health conditions."
+    },
+    {
+        "question": "How can I reduce my salt intake?",
+        "answer": "Avoid processed foods, cook at home, and read food labels carefully."
+    },
+    {
+        "question": "Can asthma attacks be prevented?",
+        "answer": "Yes, by avoiding triggers, taking prescribed medication, and using inhalers."
+    },
+    {
+        "question": "What should I eat if I have high blood pressure?",
+        "answer": "Focus on fruits, vegetables, whole grains, and lean proteins."
+    },
+    {
+        "question": "How do I know if I’m having an asthma attack?",
+        "answer": "Symptoms include shortness of breath, wheezing, and tightness in the chest."
+    },
+    {
+        "question": "Can stress cause high blood pressure?",
+        "answer": "Yes, chronic stress can contribute to high blood pressure over time."
+    },
+    {
+        "question": "What’s the best way to manage type 2 diabetes?",
+        "answer": "Maintain a healthy diet, exercise regularly, monitor blood sugar, and take medication if prescribed."
+    },
+    {
+        "question": "Can I prevent anemia?",
+        "answer": "Eat iron-rich foods like red meat, spinach, and beans, and take supplements if needed."
+    },
+    {
+        "question": "How can I prevent osteoporosis?",
+        "answer": "Ensure you get enough calcium and vitamin D, and engage in weight-bearing exercises."
+    },
+    {
+        "question": "What should I do if I feel faint?",
+        "answer": "Sit down, drink water, and if it continues, see a doctor."
+    },
+    {
+        "question": "How do I treat a sore throat?",
+        "answer": "Gargle with warm salt water, drink fluids, and use throat lozenges."
+    },
+    {
+        "question": "What are the symptoms of kidney stones?",
+        "answer": "Severe pain in the side and back, nausea, and blood in the urine."
+    },
+    {
+        "question": "Can I prevent kidney stones?",
+        "answer": "Drink plenty of water, reduce salt intake, and limit foods high in oxalates like spinach."
+    },
+    {
+        "question": "What’s the best way to prevent infections?",
+        "answer": "Wash your hands regularly, keep wounds clean, and stay up to date on vaccinations."
+    },
+    {
+        "question": "How can I prevent food allergies?",
+        "answer": "Introduce common allergens to children early, avoid known allergens, and consult a doctor if concerned."
+    },
+    {
+        "question": "How can I reduce my risk of cancer?",
+        "answer": "Avoid smoking, limit alcohol, eat a healthy diet, and get regular checkups."
+    },
+    {
+        "question": "What are the symptoms of dengue fever?",
+        "answer": "High fever, severe headaches, pain behind the eyes, and joint pain."
+    },
+    {
+        "question": "Can dengue fever be treated at home?",
+        "answer": "No, see a doctor for proper treatment and avoid self-medicating."
+    },
+    {
+        "question": "What’s the best way to boost energy levels?",
+        "answer": "Get enough sleep, eat balanced meals, and exercise regularly."
+    },
+    {
+        "question": "How can I reduce stress at work?",
+        "answer": "Take breaks, prioritize tasks, and practice relaxation techniques."
+    },
+    {
+        "question": "What are the signs of dehydration in children?",
+        "answer": "Dry mouth, sunken eyes, no tears when crying, and less frequent urination."
+    },
+    {
+        "question": "How do I manage lactose intolerance?",
+        "answer": "Avoid dairy products or use lactose-free alternatives."
+    },
+    {
+        "question": "What causes bloating?",
+        "answer": "Overeating, gas, or digestive issues can cause bloating."
+    },
+    {
+        "question": "How can I improve my concentration?",
+        "answer": "Stay hydrated, eat brain-boosting foods, and take regular breaks."
+    },
+    {
+        "question": "Can I prevent wrinkles?",
+        "answer": "Use sunscreen, moisturize, and avoid smoking."
+    },
+    {
+        "question": "How can I avoid stress-related weight gain?",
+        "answer": "Manage stress through exercise, healthy eating, and avoiding emotional eating."
+    },
+    {
+        "question": "What are the symptoms of flu in children?",
+        "answer": "Fever, cough, body aches, and fatigue."
+    },
+    {
+        "question": "How do I treat a UTI (urinary tract infection)?",
+        "answer": "Drink plenty of water and see a doctor for antibiotics."
+    },
+    {
+        "question": "Can I exercise if I have a cold?",
+        "answer": "Light exercise is okay if symptoms are mild, but rest if you have a fever or body aches."
+    },
+    {
+        "question": "How do I manage period pain?",
+        "answer": "Use heat pads, take pain relievers, and try light exercise like yoga."
+    },
+    {
+        "question": "What are the signs of iron deficiency?",
+        "answer": "Fatigue, weakness, and pale skin."
+    },
+    {
+        "question": "Can anxiety cause physical symptoms?",
+        "answer": "Yes, it can cause headaches, stomach issues, and rapid heartbeat."
+    },
+    {
+        "question": "What should I eat if I have a stomach ulcer?",
+        "answer": "Avoid spicy, acidic, and fatty foods; eat smaller meals."
+    },
+    {
+        "question": "Can lack of sleep affect my weight?",
+        "answer": "Yes, poor sleep can lead to weight gain by affecting hormones that control hunger."
+    },
+    {
+        "question": "What’s the best way to prevent acne?",
+        "answer": "Keep your skin clean, avoid touching your face, and use non-comedogenic products."
+    },
+    {
+        "question": "Can children get arthritis?",
+        "answer": "Yes, juvenile arthritis is a condition that affects children."
+    },
+    {
+        "question": "What are the risks of high blood sugar?",
+        "answer": "It can lead to diabetes, nerve damage, and kidney problems."
+    },
+    {
+        "question": "What are the symptoms of jaundice?",
+        "answer": "Yellowing of the skin and eyes, dark urine, and pale stools."
+    },
+    {
+        "question": "How can I protect my eyes?",
+        "answer": "Wear sunglasses, take breaks from screens, and get regular eye checkups."
+    },
+    {
+        "question": "Can I take vitamins during pregnancy?",
+        "answer": "Yes, prenatal vitamins are recommended, but consult your doctor first."
+    },
+    {
+        "question": "What’s the best way to treat constipation?",
+        "answer": "Drink more water, eat fiber-rich foods, and stay active."
+    },
+    {
+        "question": "Can I manage hypertension with diet?",
+        "answer": "Yes, eating fruits, vegetables, and whole grains can help lower blood pressure."
+    },
+    {
+        "question": "What’s the best way to stay hydrated?",
+        "answer": "Drink water regularly, especially before and after physical activity."
+    },
+    {
+        "question": "How can I reduce back pain?",
+        "answer": "Practice good posture, stay active, and avoid lifting heavy objects improperly."
+    },
+    {
+        "question": "What are the symptoms of low blood pressure?",
+        "answer": "Dizziness, fainting, blurred vision, and fatigue."
+    },
+    {
+        "question": "Can high cholesterol cause heart problems?",
+        "answer": "Yes, it increases the risk of heart disease and stroke."
+    },
+    {
+        "question": "How do I prevent motion sickness?",
+        "answer": "Sit in the front seat, focus on the horizon, and avoid heavy meals before traveling."
+    },
+    {
+        "question": "Can Oziza help me find a doctor?",
+        "answer": "Yes, we provide information on healthcare facilities and professionals near you."
+    },
+    {
+        "question": "What should I eat to boost my immune system?",
+        "answer": "Focus on fruits, vegetables, lean proteins, and foods rich in vitamins C and D."
+    },
+    {
+        "question": "How can I reduce menstrual cramps?",
+        "answer": "Use a heating pad, take pain relievers, and try light exercise like stretching."
+    },
+    {
+        "question": "What causes high blood sugar?",
+        "answer": "Consuming too many sugary foods, lack of exercise, or underlying health conditions like diabetes."
+    },
+    {
+        "question": "Can I prevent varicose veins?",
+        "answer": "Stay active, avoid standing for long periods, and elevate your legs when resting."
+    },
+    {
+        "question": "What’s the best way to avoid weight gain?",
+        "answer": "Eat a balanced diet, exercise regularly, and watch portion sizes."
+    },
+    {
+        "question": "What are the symptoms of asthma in children?",
+        "answer": "Wheezing, coughing, shortness of breath, and tightness in the chest."
+    },
+    {
+        "question": "How can I prevent athlete’s foot?",
+        "answer": "Keep your feet dry, wear breathable shoes, and avoid walking barefoot in public areas."
+    },
+    {
+        "question": "What should I do if I feel dizzy?",
+        "answer": "Sit or lie down, drink water, and avoid sudden movements."
+    },
+    {
+        "question": "What are the benefits of regular exercise?",
+        "answer": "It improves heart health, strengthens muscles, and boosts mood."
+    },
+    {
+        "question": "How do I manage irritable bowel syndrome (IBS)?",
+        "answer": "Avoid trigger foods, eat smaller meals, and reduce stress."
+    },
+    {
+        "question": "Can high stress cause weight loss?",
+        "answer": "Yes, stress can affect appetite and metabolism, leading to weight changes."
+    },
+    {
+        "question": "How can I prevent anemia during pregnancy?",
+        "answer": "Eat iron-rich foods, take iron supplements if prescribed, and stay hydrated."
+    },
+    {
+        "question": "What causes hair loss?",
+        "answer": "Genetics, stress, poor diet, or underlying health issues."
+    },
+    {
+        "question": "What’s the best way to treat a rash?",
+        "answer": "Keep the area clean and dry, apply an anti-itch cream, and avoid scratching."
+    },
+    {
+        "question": "Can I take antibiotics for a cold?",
+        "answer": "No, antibiotics don’t work against viruses that cause colds."
+    },
+    {
+        "question": "What are the symptoms of pneumonia in adults?",
+        "answer": "Cough, fever, difficulty breathing, and chest pain."
+    },
+    {
+        "question": "How do I prevent stretch marks?",
+        "answer": "Stay hydrated, moisturize your skin, and maintain a healthy weight."
+    },
+    {
+        "question": "What’s the best way to prevent foodborne illness?",
+        "answer": "Cook food thoroughly, wash your hands, and store food at safe temperatures."
+    },
+    {
+        "question": "Can I prevent osteoporosis with diet?",
+        "answer": "Yes, eat foods rich in calcium and vitamin D, like dairy, leafy greens, and fish."
+    },
+    {
+        "question": "What’s the best way to recover from the flu?",
+        "answer": "Rest, stay hydrated, and take medications for symptoms if needed."
+    },
+    {
+        "question": "Can I exercise if I have asthma?",
+        "answer": "Yes, but follow your doctor's advice and use your inhaler as needed."
+    },
+    {
+        "question": "What causes bad breath?",
+        "answer": "Poor oral hygiene, certain foods, or underlying health issues like gum disease."
+    },
+    {
+        "question": "How can I manage stress naturally?",
+        "answer": "Practice deep breathing, exercise, and meditate regularly."
+    },
+    {
+        "question": "What’s the best way to treat muscle cramps?",
+        "answer": "Stretch the muscle, apply heat, and stay hydrated to prevent future cramps."
+    },
+    {
+        "question": "What should I eat to gain healthy weight?",
+        "answer": "Focus on nutrient-dense foods like nuts, avocados, and lean proteins."
+    },
+    {
+        "question": "How can I improve my posture?",
+        "answer": "Be mindful of how you sit and stand, strengthen core muscles, and avoid slouching."
+    },
+    {
+        "question": "Can drinking too much coffee be bad for my health?",
+        "answer": "Yes, too much caffeine can cause anxiety, sleep issues, and digestive problems."
+    },
+    {
+        "question": "What are the symptoms of dengue in children?",
+        "answer": "High fever, rash, muscle pain, and fatigue."
+    },
+    {
+        "question": "What’s the best way to treat dry skin?",
+        "answer": "Use a moisturizer, avoid hot showers, and stay hydrated."
+    },
+    {
+        "question": "How can I protect myself from the sun?",
+        "answer": "Wear sunscreen, seek shade, and wear protective clothing like hats and sunglasses."
+    },
+    {
+        "question": "What causes swollen feet?",
+        "answer": "Prolonged sitting or standing, pregnancy, or medical conditions like heart or kidney disease."
+    },
+    {
+        "question": "What’s the best way to reduce bloating?",
+        "answer": "Eat slowly, avoid carbonated drinks, and drink plenty of water."
+    },
+    {
+        "question": "Can Oziza give mental health advice?",
+        "answer": "Yes, we provide information on managing stress, anxiety, and depression."
+    },
+    {
+        "question": "What are the signs of an ear infection?",
+        "answer": "Ear pain, difficulty hearing, and fluid drainage from the ear."
+    },
+    {
+        "question": "Can I prevent high blood pressure with exercise?",
+        "answer": "Yes, regular physical activity can help lower and maintain healthy blood pressure levels."
+    },
+    {
+        "question": "What’s the best way to treat a blister?",
+        "answer": "Clean it, cover with a bandage, and avoid popping it."
+    },
+    {
+        "question": "Can I prevent Alzheimer’s disease?",
+        "answer": "While there’s no sure way to prevent it, staying mentally and physically active may help reduce the risk."
+    },
+    {
+        "question": "How can I manage morning sickness?",
+        "answer": "Eat small, frequent meals, stay hydrated, and avoid strong smells."
+    },
+    {
+        "question": "What’s the best way to protect my hearing?",
+        "answer": "Avoid loud noises, wear ear protection, and get regular hearing checkups."
+    },
+    {
+        "question": "How can I avoid gaining weight during the holidays?",
+        "answer": "Watch portion sizes, stay active, and limit sugary treats."
+    },
+    {
+        "question": "What should I do if my child has diarrhea?",
+        "answer": "Keep them hydrated, avoid sugary drinks, and see a doctor if it persists."
+    },
+    {
+        "question": "How can I prevent acne scars?",
+        "answer": "Avoid picking at pimples, use sunscreen, and treat acne early."
+    },
+    {
+        "question": "What are the signs of dehydration in adults?",
+        "answer": "Dry mouth, dark urine, dizziness, and feeling very thirsty."
+    },
+    {
+        "question": "How can I prevent migraines?",
+        "answer": "Avoid known triggers like stress, lack of sleep, and certain foods."
+    },
+    {
+        "question": "What is the best way to manage eczema?",
+        "answer": "Keep the skin moisturized, avoid irritants, and use medicated creams if needed."
+    },
+    {
+        "question": "How can I reduce sugar in my diet?",
+        "answer": "Limit sugary drinks, read food labels, and opt for natural sweeteners like fruits."
+    },
+    {
+        "question": "Can sitting for too long cause health problems?",
+        "answer": "Yes, it can lead to weight gain, back pain, and increase the risk of heart disease."
+    },
+    {
+        "question": "What are the signs of vitamin D deficiency?",
+        "answer": "Fatigue, bone pain, muscle weakness, and mood changes."
+    },
+    {
+        "question": "What are the symptoms of lactose intolerance in adults?",
+        "answer": "Bloating, diarrhea, and stomach cramps after consuming dairy products."
+    },
+    {
+        "question": "How can I prevent cavities?",
+        "answer": "Brush twice a day, floss regularly, and reduce sugary foods."
+    },
+    {
+        "question": "What’s the best way to reduce eye strain?",
+        "answer": "Take regular breaks from screens, blink often, and adjust lighting."
+    },
+    {
+        "question": "Can stress cause chest pain?",
+        "answer": "Yes, stress can lead to muscle tension and chest pain."
+    },
+    {
+        "question": "How can I boost my metabolism?",
+        "answer": "Eat protein-rich meals, stay active, and drink plenty of water."
+    },
+    {
+        "question": "What are the early signs of liver disease?",
+        "answer": "Fatigue, nausea, yellowing of the skin or eyes (jaundice), and swelling in the legs."
+    },
+    {
+        "question": "What causes bad posture?",
+        "answer": "Slouching, weak core muscles, and sitting for extended periods."
+    },
+    {
+        "question": "How can I lower my cholesterol naturally?",
+        "answer": "Eat more fiber, reduce saturated fats, and exercise regularly."
+    },
+    {
+        "question": "What are the symptoms of sleep apnea?",
+        "answer": "Loud snoring, gasping for air during sleep, and feeling tired even after a full night’s rest."
+    },
+    {
+        "question": "Can Oziza help with mental health support?",
+        "answer": "Yes, we provide resources and advice on managing mental health."
+    },
+    {
+        "question": "What are the causes of restless leg syndrome?",
+        "answer": "It can be caused by iron deficiency, kidney problems, or certain medications."
+    },
+    {
+        "question": "How can I relieve a tension headache?",
+        "answer": "Apply a warm or cold compress, massage the neck, and practice relaxation techniques."
+    },
+    {
+        "question": "What is chronic fatigue syndrome?",
+        "answer": "A condition characterized by extreme tiredness that doesn’t improve with rest."
+    },
+    {
+        "question": "What foods should I eat for strong bones?",
+        "answer": "Calcium-rich foods like milk, cheese, and leafy greens, as well as vitamin D sources."
+    },
+    {
+        "question": "What causes a runny nose?",
+        "answer": "It can be due to colds, allergies, or irritants like dust or smoke."
+    },
+    {
+        "question": "How can I prevent ear infections in children?",
+        "answer": "Keep their ears dry, avoid smoking around them, and ensure they stay up to date on vaccines."
+    },
+    {
+        "question": "What are the symptoms of vitamin B12 deficiency?",
+        "answer": "Fatigue, weakness, pale skin, and difficulty concentrating."
+    },
+    {
+        "question": "Can I prevent depression?",
+        "answer": "While not always preventable, staying socially connected, exercising, and managing stress can help."
+    },
+    {
+        "question": "What’s the best way to protect against sexually transmitted infections (STIs)?",
+        "answer": "Use condoms, get regular health checkups, and have open communication with your partner."
+    },
+    {
+        "question": "How can I prevent eye infections?",
+        "answer": "Wash your hands before touching your eyes, avoid sharing personal items, and keep your contacts clean."
+    },
+    {
+        "question": "What are the signs of heat exhaustion?",
+        "answer": "Heavy sweating, dizziness, headache, and nausea."
+    },
+    {
+        "question": "How can I strengthen my immune system?",
+        "answer": "Eat a balanced diet, exercise, get enough sleep, and avoid smoking."
+    },
+    {
+        "question": "What are the symptoms of thyroid problems?",
+        "answer": "Weight changes, fatigue, hair loss, and temperature sensitivity."
+    },
+    {
+        "question": "How can I reduce my risk of kidney disease?",
+        "answer": "Stay hydrated, control blood sugar, and avoid excessive salt intake."
+    },
+    {
+        "question": "What causes varicose veins?",
+        "answer": "Weak or damaged valves in the veins, which can result from age, pregnancy, or standing for long periods."
+    },
+    {
+        "question": "How can I prevent UTIs in children?",
+        "answer": "Encourage frequent bathroom breaks, teach proper wiping techniques, and ensure good hygiene."
+    },
+    {
+        "question": "What’s the best way to prevent motion sickness in kids?",
+        "answer": "Have them sit in the front seat, give small sips of water, and avoid heavy meals before travel."
+    },
+    {
+        "question": "Can meditation help with anxiety?",
+        "answer": "Yes, meditation and mindfulness can reduce stress and anxiety."
+    },
+    {
+        "question": "What are the signs of malnutrition?",
+        "answer": "Weight loss, weakness, fatigue, and brittle hair or nails."
+    },
+    {
+        "question": "Can I manage gout with diet?",
+        "answer": "Yes, avoid purine-rich foods like red meat, shellfish, and alcohol, and stay hydrated."
+    },
+    {
+        "question": "What are the signs of scabies?",
+        "answer": "Intense itching, a pimple-like rash, and thin, irregular burrow tracks on the skin."
+    },
+    {
+        "question": "What’s the best way to manage stress long-term?",
+        "answer": "Develop healthy coping mechanisms like exercise, meditation, and regular sleep."
+    },
+    {
+        "question": "What are the risks of not drinking enough water?",
+        "answer": "Dehydration can lead to headaches, constipation, kidney stones, and poor concentration."
+    },
+    {
+        "question": "How can I prevent fainting?",
+        "answer": "Stay hydrated, avoid standing for long periods, and sit down if you feel lightheaded."
+    },
+    {
+        "question": "What’s the best way to treat a mild burn?",
+        "answer": "Run it under cool water, apply aloe vera or burn ointment, and cover it loosely."
+    },
+    {
+        "question": "How can I avoid overeating?",
+        "answer": "Eat smaller, more frequent meals, and focus on portion control."
+    },
+    {
+        "question": "What are the benefits of deep breathing exercises?",
+        "answer": "They reduce stress, improve lung function, and help with relaxation."
+    },
+    {
+        "question": "What’s the best way to deal with chronic pain?",
+        "answer": "Stay active, practice relaxation techniques, and consult a doctor for pain management."
+    },
+    {
+        "question": "Can Oziza help me track my fitness goals?",
+        "answer": "Yes, Oziza offers tools to help monitor and improve your health and fitness."
+    },
+    {
+        "question": "What’s the best way to clean wounds?",
+        "answer": "Rinse with clean water, apply an antiseptic, and cover with a bandage."
+    },
+    {
+        "question": "Can I get food poisoning from fruits and vegetables?",
+        "answer": "Yes, if they are contaminated with bacteria or not washed properly."
+    },
+    {
+        "question": "What are the signs of menopause?",
+        "answer": "Hot flashes, night sweats, mood changes, and irregular periods."
+    },
+    {
+        "question": "How can I protect myself from malaria?",
+        "answer": "Use insect repellent, sleep under a mosquito net, and take antimalarial medication if needed."
+    },
+    {
+        "question": "What are the symptoms of dengue fever?",
+        "answer": "High fever, rash, severe headaches, and joint pain."
+    },
+    {
+        "question": "What are the symptoms of anemia?",
+        "answer": "Fatigue, pale skin, shortness of breath, and dizziness."
+    },
+    {
+        "question": "Can Oziza help me with pregnancy advice?",
+        "answer": "Yes, we offer information on pregnancy care, nutrition, and prenatal tips."
+    },
+    {
+        "question": "What’s the best way to prevent skin infections?",
+        "answer": "Keep your skin clean, avoid sharing personal items, and treat cuts immediately."
+    },
+    {
+        "question": "How can I prevent seasonal allergies?",
+        "answer": "Stay indoors during high pollen times, keep windows closed, and use an air purifier."
+    },
+    {
+        "question": "What causes dark circles under the eyes?",
+        "answer": "Lack of sleep, genetics, dehydration, or allergies."
+    },
+    {
+        "question": "How do I improve my gut health?",
+        "answer": "Eat fiber-rich foods, take probiotics, and stay hydrated."
+    },
+    {
+        "question": "Can I prevent Alzheimer’s with mental exercises?",
+        "answer": "While it’s not guaranteed, staying mentally active may reduce the risk."
+    },
+    {
+        "question": "What’s the best way to treat pink eye?",
+        "answer": "Use eye drops, avoid touching your eyes, and maintain proper hygiene."
+    },
+    {
+        "question": "What are the signs of dehydration in children?",
+        "answer": "Dry lips, no tears when crying, dark urine, and fatigue."
+    },
+    {
+        "question": "How can I treat chapped lips?",
+        "answer": "Use lip balm, avoid licking your lips, and stay hydrated."
+    },
+    {
+        "question": "What are the causes of poor sleep?",
+        "answer": "Stress, caffeine, uncomfortable sleeping conditions, or sleep disorders."
+    },
+    {
+        "question": "What foods are good for eye health?",
+        "answer": "Carrots, spinach, eggs, and fish rich in omega-3 fatty acids."
+    },
+    {
+        "question": "What’s the best way to treat a bee sting?",
+        "answer": "Remove the stinger, apply a cold compress, and take an antihistamine if needed."
+    },
+    {
+        "question": "Can poor oral health affect my heart?",
+        "answer": "Yes, gum disease can increase the risk of heart disease."
+    },
+    {
+        "question": "How can I prevent heatstroke?",
+        "answer": "Stay hydrated, avoid excessive sun exposure, and wear loose clothing in hot weather."
+    },
+    {
+        "question": "What are the symptoms of a sinus infection?",
+        "answer": "Facial pain, nasal congestion, and thick mucus."
+    },
+    {
+        "question": "How do I treat dandruff?",
+        "answer": "Use an anti-dandruff shampoo and keep your scalp moisturized."
+    },
+    {
+        "question": "What’s the best way to prevent athlete’s foot?",
+        "answer": "Keep your feet dry, wear breathable shoes, and avoid walking barefoot in public places."
+    },
+    {
+        "question": "What causes bloating?",
+        "answer": "Overeating, gas, or certain foods like beans and dairy."
+    },
+    {
+        "question": "How can I improve my focus and concentration?",
+        "answer": "Get enough sleep, eat a healthy diet, and take regular breaks from tasks."
+    },
+    {
+        "question": "What are the signs of a panic attack?",
+        "answer": "Rapid heartbeat, sweating, shortness of breath, and a sense of impending doom."
+    },
+    {
+        "question": "How can I relieve heartburn?",
+        "answer": "Avoid spicy foods, eat smaller meals, and sit up after eating."
+    },
+    {
+        "question": "What’s the best way to treat a sunburn?",
+        "answer": "Apply aloe vera, stay hydrated, and avoid further sun exposure."
+    },
+    {
+        "question": "How can I prevent tooth decay?",
+        "answer": "Brush regularly, floss, and limit sugary foods and drinks."
+    },
+    {
+        "question": "What causes brittle nails?",
+        "answer": "Dehydration, nutritional deficiencies, or frequent exposure to water and chemicals."
+    },
+    {
+        "question": "What are the benefits of yoga?",
+        "answer": "It improves flexibility, reduces stress, and strengthens muscles."
+    },
+    {
+        "question": "Can Oziza help me find support groups?",
+        "answer": "Yes, we provide forums and resources to connect with support groups for various conditions."
+    },
+    {
+        "question": "What are the symptoms of dehydration in babies?",
+        "answer": "Few wet diapers, dry mouth, and lethargy."
+    },
+    {
+        "question": "How can I boost my energy naturally?",
+        "answer": "Get enough sleep, eat nutrient-dense foods, and stay hydrated."
+    },
+    {
+        "question": "What are the risks of smoking during pregnancy?",
+        "answer": "Premature birth, low birth weight, and developmental issues for the baby."
+    },
+    {
+        "question": "What’s the best way to prevent foot odor?",
+        "answer": "Keep your feet clean, dry, and wear moisture-wicking socks."
+    },
+    {
+        "question": "Can stress cause digestive problems?",
+        "answer": "Yes, stress can lead to stomachaches, constipation, or diarrhea."
+    },
+    {
+        "question": "How do I manage fibromyalgia pain?",
+        "answer": "Stay active, get enough sleep, and consider medications or therapy if prescribed."
+    },
+    {
+        "question": "What are the symptoms of food poisoning?",
+        "answer": "Nausea, vomiting, stomach cramps, and diarrhea."
+    },
+    {
+        "question": "How can I avoid neck pain?",
+        "answer": "Practice good posture, avoid sleeping in awkward positions, and stretch regularly."
+    },
+    {
+        "question": "What are the early signs of dementia?",
+        "answer": "Memory loss, confusion, difficulty concentrating, and mood changes."
+    },
+    {
+        "question": "How do I treat swimmer’s ear?",
+        "answer": "Keep the ear dry, use prescribed eardrops, and avoid inserting objects into the ear."
+    },
+    {
+        "question": "What’s the best way to protect my skin from aging?",
+        "answer": "Use sunscreen daily, moisturize, and avoid smoking."
+    },
+    {
+        "question": "Can I manage arthritis pain with diet?",
+        "answer": "Yes, eating anti-inflammatory foods like fish, nuts, and leafy greens can help."
+    },
+    {
+        "question": "How can I prevent knee injuries?",
+        "answer": "Strengthen leg muscles, warm up before exercise, and avoid sudden twisting motions."
+    },
+    {
+        "question": "What causes heart palpitations?",
+        "answer": "Stress, caffeine, dehydration, or underlying heart conditions."
+    },
+    {
+        "question": "How can I avoid overeating at night?",
+        "answer": "Eat balanced meals throughout the day, stay hydrated, and avoid late-night snacking."
+    },
+    {
+        "question": "What are the signs of high blood sugar?",
+        "answer": "Increased thirst, frequent urination, blurred vision, and fatigue."
+    },
+    {
+        "question": "How do I manage jet lag?",
+        "answer": "Adjust your schedule before traveling, stay hydrated, and get plenty of sunlight at your destination."
+    },
+    {
+        "question": "What’s the best way to prevent stomach ulcers?",
+        "answer": "Avoid smoking, limit alcohol, and reduce the use of NSAIDs (pain relievers)."
+    },
+    {
+        "question": "What causes tingling in the hands and feet?",
+        "answer": "It can be caused by poor circulation, nerve damage, or vitamin deficiencies."
+    },
+    {
+        "question": "How can I prevent insomnia?",
+        "answer": "Stick to a sleep schedule, limit screen time before bed, and avoid caffeine late in the day."
+    },
+    {
+        "question": "What’s the best way to treat a cold sore?",
+        "answer": "Apply antiviral creams, avoid touching the sore, and stay hydrated."
+    },
+    {
+        "question": "How can I prevent infections in wounds?",
+        "answer": "Clean the wound properly, apply an antibiotic ointment, and keep it covered until healed."
+    },
+    {
+        "question": "What are the symptoms of tuberculosis?",
+        "answer": "Persistent cough, night sweats, weight loss, and fever."
+    },
+    {
+        "question": "Can sitting for long periods cause blood clots?",
+        "answer": "Yes, long periods of sitting can lead to deep vein thrombosis (DVT)."
+    },
+    {
+        "question": "What are the causes of premature birth?",
+        "answer": "Infections, stress, multiple pregnancies, and certain chronic conditions."
+    },
+    {
+        "question": "How can I manage asthma during pregnancy?",
+        "answer": "Continue your prescribed treatment, avoid triggers, and consult your doctor regularly."
+    },
+    {
+        "question": "What’s the best way to reduce the risk of gallstones?",
+        "answer": "Maintain a healthy weight, eat a high-fiber diet, and avoid skipping meals."
+    },
+    {
+        "question": "What are the signs of high cholesterol?",
+        "answer": "High cholesterol often has no symptoms, but blood tests can detect it."
+    },
+    {
+        "question": "Can Oziza help me with postpartum depression?",
+        "answer": "Yes, we offer advice and resources to manage postpartum depression."
+    },
+    {
+        "question": "How do I treat motion sickness naturally?",
+        "answer": "Ginger, peppermint, and acupressure can help reduce symptoms."
+    },
+    {
+        "question": "What causes mouth ulcers?",
+        "answer": "Stress, injury, certain foods, or underlying conditions like celiac disease."
+    },
+    {
+        "question": "How can I prevent stretch marks during pregnancy?",
+        "answer": "Moisturize your skin, stay hydrated, and maintain a healthy weight."
+    },
+    {
+        "question": "What are the benefits of intermittent fasting?",
+        "answer": "It can promote weight loss, improve metabolism, and support heart health."
+    },
+    {
+        "question": "What’s the best way to avoid ingrown toenails?",
+        "answer": "Trim your nails straight across, avoid tight shoes, and keep your feet clean."
+    },
+    {
+        "question": "Can Oziza help me find a doctor?",
+        "answer": "Yes, Oziza provides information about healthcare professionals and facilities."
+    },
+    {
+        "question": "What are the symptoms of gallbladder problems?",
+        "answer": "Upper right abdominal pain, nausea, vomiting, and bloating."
+    },
+    {
+        "question": "How can I reduce acid reflux naturally?",
+        "answer": "Avoid trigger foods, eat smaller meals, and elevate your head while sleeping."
+    },
+    {
+        "question": "What is the best way to manage hypothyroidism?",
+        "answer": "Take thyroid hormone replacement medication and eat a balanced diet."
+    },
+    {
+        "question": "What causes hair thinning in women?",
+        "answer": "Hormonal imbalances, stress, aging, or vitamin deficiencies."
+    },
+    {
+        "question": "How can I relieve sciatic nerve pain?",
+        "answer": "Stretching, heat/cold therapy, and physical therapy can help."
+    },
+    {
+        "question": "Can I prevent osteoporosis?",
+        "answer": "Yes, by consuming enough calcium, vitamin D, and engaging in weight-bearing exercises."
+    },
+    {
+        "question": "What are the symptoms of chronic bronchitis?",
+        "answer": "Persistent cough, mucus production, and shortness of breath."
+    },
+    {
+        "question": "How do I manage type 2 diabetes with diet?",
+        "answer": "Eat whole grains, lean proteins, and limit sugar and processed foods."
+    },
+    {
+        "question": "What’s the best way to treat athlete’s foot naturally?",
+        "answer": "Tea tree oil, garlic, and keeping feet dry can help reduce symptoms."
+    },
+    {
+        "question": "How can I prevent burnout?",
+        "answer": "Set boundaries, take breaks, prioritize sleep, and practice mindfulness."
+    },
+    {
+        "question": "What are the benefits of staying hydrated?",
+        "answer": "Improves energy, digestion, skin health, and regulates body temperature."
+    },
+    {
+        "question": "How can I prevent hair loss after pregnancy?",
+        "answer": "Eat a nutrient-rich diet, avoid harsh hair treatments, and manage stress."
+    },
+    {
+        "question": "What are the symptoms of gluten intolerance?",
+        "answer": "Bloating, diarrhea, headaches, and joint pain after consuming gluten."
+    },
+    {
+        "question": "How can I manage chronic lower back pain?",
+        "answer": "Stay active, use proper posture, and consider physical therapy."
+    },
+    {
+        "question": "What’s the best way to avoid dehydration in children?",
+        "answer": "Offer water frequently, especially during play, and monitor for signs of dehydration."
+    },
+    {
+        "question": "How can I reduce my risk of stroke?",
+        "answer": "Control blood pressure, avoid smoking, stay active, and eat a healthy diet."
+    },
+    {
+        "question": "Can Oziza help with cancer prevention tips?",
+        "answer": "Yes, we provide advice on lifestyle changes to reduce cancer risks."
+    },
+    {
+        "question": "What are the causes of varicose veins in pregnancy?",
+        "answer": "Increased blood flow and pressure on veins due to weight gain and hormonal changes."
+    },
+    {
+        "question": "How can I treat cold sores naturally?",
+        "answer": "Apply aloe vera, lemon balm, or licorice root extract for relief."
+    },
+    {
+        "question": "What are the symptoms of Crohn’s disease?",
+        "answer": "Abdominal pain, diarrhea, weight loss, and fatigue."
+    },
+    {
+        "question": "How do I prevent a sore throat during flu season?",
+        "answer": "Stay hydrated, avoid close contact with sick people, and wash your hands frequently."
+    },
+    {
+        "question": "What’s the best way to protect your skin from acne?",
+        "answer": "Cleanse gently, avoid heavy makeup, and use non-comedogenic products."
+    },
+    {
+        "question": "What causes chronic sinusitis?",
+        "answer": "Allergies, infections, or nasal polyps can lead to prolonged sinus issues."
+    },
+    {
+        "question": "How can I boost brain health as I age?",
+        "answer": "Stay mentally active, eat brain-healthy foods like fish, and exercise regularly."
+    },
+    {
+        "question": "What are the signs of kidney stones?",
+        "answer": "Severe lower back pain, blood in urine, and nausea."
+    },
+    {
+        "question": "What’s the best way to treat mild food allergies?",
+        "answer": "Avoid trigger foods and carry an antihistamine."
+    },
+    {
+        "question": "How can I protect my eyes from digital strain?",
+        "answer": "Use the 20-20-20 rule: Every 20 minutes, look at something 20 feet away for 20 seconds."
+    },
+    {
+        "question": "What are the causes of frequent nosebleeds?",
+        "answer": "Dry air, nasal injury, or underlying health conditions like hypertension."
+    },
+    {
+        "question": "How can I manage lactose intolerance?",
+        "answer": "Avoid dairy or use lactose-free products and consider lactase supplements."
+    },
+    {
+        "question": "What are the benefits of regular stretching?",
+        "answer": "Improves flexibility, reduces muscle tension, and prevents injury."
+    },
+    {
+        "question": "How can I reduce inflammation naturally?",
+        "answer": "Eat anti-inflammatory foods like leafy greens, nuts, and turmeric."
+    },
+    {
+        "question": "What are the symptoms of carpal tunnel syndrome?",
+        "answer": "Tingling, numbness, and weakness in the hand or wrist."
+    },
+    {
+        "question": "How can I prevent UTIs in elderly adults?",
+        "answer": "Stay hydrated, practice good hygiene, and encourage regular bathroom use."
+    },
+    {
+        "question": "What causes restless sleep in older adults?",
+        "answer": "Pain, medication side effects, or underlying conditions like sleep apnea."
+    },
+    {
+        "question": "What’s the best way to treat a skin rash naturally?",
+        "answer": "Apply oatmeal baths, coconut oil, or chamomile for relief."
+    },
+    {
+        "question": "How can I prevent gallstones during weight loss?",
+        "answer": "Lose weight gradually and eat a balanced diet with healthy fats."
+    },
+    {
+        "question": "What are the signs of prediabetes?",
+        "answer": "Increased thirst, frequent urination, and fatigue."
+    },
+    {
+        "question": "What causes dry eyes?",
+        "answer": "Aging, staring at screens, or certain medications. "
+    },
+    {
+        "question": "How do I manage dry eyes naturally?",
+        "answer": "Use artificial tears, take screen breaks, and stay hydrated."
+    },
+    {
+        "question": "What are the symptoms of psoriasis?",
+        "answer": "Red patches of skin, scaling, and itchiness."
+    },
+    {
+        "question": "How can I reduce the risk of gallbladder attacks?",
+        "answer": "Eat a healthy, low-fat diet and avoid rapid weight loss."
+    },
+    {
+        "question": "What are the causes of chronic fatigue?",
+        "answer": "Sleep disorders, stress, infections, or underlying medical conditions."
+    },
+    {
+        "question": "How can I improve digestion naturally?",
+        "answer": "Eat fiber-rich foods, drink water, and chew your food thoroughly."
+    },
+    {
+        "question": "What are the symptoms of food allergies in babies?",
+        "answer": "Rashes, swelling, vomiting, or difficulty breathing after eating certain foods."
+    },
+    {
+        "question": "How do I prevent knee pain while running?",
+        "answer": "Warm up, wear proper shoes, and strengthen leg muscles."
+    },
+    {
+        "question": "What are the signs of a migraine?",
+        "answer": "Severe headache, nausea, sensitivity to light, and aura."
+    },
+    {
+        "question": "Can I manage migraines naturally?",
+        "answer": "Yes, through relaxation techniques, regular sleep, and identifying triggers."
+    },
+    {
+        "question": "What are the symptoms of high blood pressure?",
+        "answer": "High blood pressure often has no symptoms, but it can cause headaches, dizziness, or blurred vision."
+    },
+    {
+        "question": "How can I avoid knee injuries in sports?",
+        "answer": "Strengthen muscles, wear proper footwear, and warm up before exercising."
+    },
+    {
+        "question": "What causes brittle bones?",
+        "answer": "Calcium and vitamin D deficiency, aging, or hormonal imbalances."
+    },
+    {
+        "question": "How can I prevent arthritis flare-ups?",
+        "answer": "Avoid trigger foods, stay active, and manage stress."
+    },
+    {
+        "question": "What are the signs of an anxiety disorder?",
+        "answer": "Excessive worry, restlessness, fatigue, and difficulty concentrating."
+    },
+    {
+        "question": "How do I manage stress effectively?",
+        "answer": "Practice mindfulness, exercise, and maintain a work-life balance."
+    },
+    {
+        "question": "What are the causes of hot flashes in men?",
+        "answer": "Hormonal changes, stress, or certain medications."
+    },
+    {
+        "question": "How can I prevent osteoporosis as I age?",
+        "answer": "Maintain a calcium-rich diet, do weight-bearing exercises, and avoid smoking."
+    },
+    {
+        "question": "What’s the best way to treat plantar fasciitis?",
+        "answer": "Rest, ice, and wear supportive shoes with orthotics."
+    },
+    {
+        "question": "What are the symptoms of Lyme disease?",
+        "answer": "Fever, fatigue, joint pain, and a bullseye-shaped rash."
+    },
+    {
+        "question": "How can I manage seasonal affective disorder (SAD)?",
+        "answer": "Get more sunlight, stay active, and consider light therapy."
+    },
+    {
+        "question": "What are the signs of ADHD in adults?",
+        "answer": "Difficulty focusing, forgetfulness, impulsivity, and disorganization."
+    },
+    {
+        "question": "How do I manage eczema naturally?",
+        "answer": "Use gentle moisturizers, avoid triggers, and apply coconut oil or oatmeal."
+    },
+    {
+        "question": "What are the symptoms of liver disease?",
+        "answer": "Fatigue, jaundice, abdominal pain, and swelling."
+    },
+    {
+        "question": "How can I prevent dry skin in cold weather?",
+        "answer": "Moisturize regularly, avoid hot showers, and use a humidifier."
+    },
+    {
+        "question": "What causes frequent headaches?",
+        "answer": "Dehydration, stress, poor posture, or vision problems."
+    },
+    {
+        "question": "How can I improve my lung health?",
+        "answer": "Avoid smoking, exercise regularly, and practice deep breathing."
+    },
+    {
+        "question": "What are the signs of iron deficiency in children?",
+        "answer": "Fatigue, pale skin, and slow growth."
+    },
+    {
+        "question": "How can I avoid overeating at social gatherings?",
+        "answer": "Eat a small snack beforehand, choose smaller portions, and drink water."
+    },
+    {
+        "question": "What are the symptoms of vertigo?",
+        "answer": "Dizziness, nausea, and a spinning sensation."
+    },
+    {
+        "question": "How can I reduce the risk of diabetes complications?",
+        "answer": "Monitor blood sugar levels, eat a balanced diet, and exercise regularly."
+    },
+    {
+        "question": "What’s the best way to treat bruises?",
+        "answer": "Apply ice, elevate the affected area, and rest."
+    },
+    {
+        "question": "How can I prevent ear infections in children?",
+        "answer": "Keep their ears dry, avoid exposure to secondhand smoke, and ensure vaccinations are up-to-date."
+    },
+    {
+        "question": "What are the signs of a thyroid problem?",
+        "answer": "Fatigue, weight changes, sensitivity to cold or heat, and hair thinning."
+    },
+    {
+        "question": "How do I treat a swollen ankle?",
+        "answer": "Rest, elevate the foot, apply ice, and use a compression bandage."
+    },
+    {
+        "question": "What causes sudden weight gain?",
+        "answer": "Hormonal imbalances, medication side effects, or a sedentary lifestyle."
+    },
+    {
+        "question": "How can I prevent sun damage to my skin?",
+        "answer": "Wear sunscreen, protective clothing, and avoid excessive sun exposure."
+    },
+    {
+        "question": "What are the symptoms of a torn ligament?",
+        "answer": "Swelling, pain, and difficulty moving the affected joint."
+    },
+    {
+        "question": "How can I manage menopause symptoms?",
+        "answer": "Stay active, eat a balanced diet, and consider hormone therapy if recommended."
+    },
+    {
+        "question": "What causes varicose veins?",
+        "answer": "Age, pregnancy, obesity, or prolonged standing."
+    },
+    {
+        "question": "How can I treat a sprained wrist?",
+        "answer": "Rest, ice, compress, and elevate (RICE method)."
+    },
+    {
+        "question": "What are the signs of a heart attack?",
+        "answer": "Chest pain, shortness of breath, nausea, and discomfort in the arms or jaw."
+    },
+    {
+        "question": "How do I prevent high blood sugar levels?",
+        "answer": "Eat a low-carb diet, stay active, and monitor your blood glucose regularly."
+    },
+    {
+        "question": "What causes ringing in the ears (tinnitus)?",
+        "answer": "Loud noise exposure, ear infections, or certain medications."
+    },
+    {
+        "question": "How can I manage symptoms of acid reflux during pregnancy?",
+        "answer": "Eat smaller meals, avoid spicy foods, and elevate your head while sleeping."
+    },
+    {
+        "question": "What are the symptoms of gallbladder disease?",
+        "answer": "Pain in the upper abdomen, nausea, and vomiting."
+    },
+    {
+        "question": "How can I reduce my risk of Alzheimer's disease?",
+        "answer": "Stay mentally and physically active, eat a brain-healthy diet, and manage cardiovascular health."
+    },
+    {
+        "question": "What are the signs of liver failure?",
+        "answer": "Jaundice, confusion, swelling, and abdominal pain."
+    },
+    {
+        "question": "How can I relieve constipation naturally?",
+        "answer": "Increase fiber intake, drink more water, and stay physically active."
+    },
+    {
+        "question": "What causes night sweats?",
+        "answer": "Hormonal changes, infections, or medications."
+    },
+    {
+        "question": "How can I prevent neck pain from poor posture?",
+        "answer": "Use comfortable furniture, take breaks from screens, and practice good posture habits."
+    },
+    {
+        "question": "What are the symptoms of lupus?",
+        "answer": "Joint pain, fatigue, skin rashes, and sensitivity to sunlight."
+    },
+    {
+        "question": "How can I manage lactose intolerance symptoms?",
+        "answer": "Avoid dairy or use lactase supplements and try lactose-free products."
+    },
+    {
+        "question": "What causes bloating after meals?",
+        "answer": "Eating too fast, consuming high-fat foods, or food intolerances."
+    },
+    {
+        "question": "How can I prevent seasonal allergies?",
+        "answer": "Stay indoors during high pollen times, use air purifiers, and take antihistamines."
+    },
+    {
+        "question": "What are the signs of dehydration?",
+        "answer": "Dry mouth, dark urine, dizziness, and fatigue."
+    },
+    {
+        "question": "How do I treat an insect bite?",
+        "answer": "Clean the area, apply an ice pack, and use antihistamines for itching."
+    },
+    {
+        "question": "What causes a sore throat without a cold?",
+        "answer": "Allergies, dry air, acid reflux, or overuse of the voice."
+    },
+    {
+        "question": "How can I improve my posture?",
+        "answer": "Be mindful of sitting and standing positions, strengthen core muscles, and use ergonomic furniture."
+    },
+    {
+        "question": "What are the symptoms of sleep apnea?",
+        "answer": "Snoring, gasping for air during sleep, and daytime sleepiness."
+    },
+    {
+        "question": "How can I prevent tooth decay in children?",
+        "answer": "Ensure they brush twice a day, limit sugary snacks, and visit the dentist regularly."
+    },
+    {
+        "question": "What are the causes of bloodshot eyes?",
+        "answer": "Dryness, allergies, fatigue, or eye infections."
+    },
+    {
+        "question": "How can I reduce the risk of Alzheimer's?",
+        "answer": "Exercise regularly, eat a Mediterranean diet, and stay mentally active."
+    },
+    {
+        "question": "What are the symptoms of carpal tunnel syndrome?",
+        "answer": "Tingling, numbness, and weakness in the hand and fingers."
+    },
+    {
+        "question": "How do I manage knee pain after exercise?",
+        "answer": "Rest, ice the area, and do gentle stretches."
+    },
+    {
+        "question": "What causes constant tiredness?",
+        "answer": "Sleep deprivation, stress, poor nutrition, or underlying health conditions."
+    },
+    {
+        "question": "How can I avoid foodborne illnesses?",
+        "answer": "Wash hands and utensils, cook food to the right temperature, and avoid cross-contamination."
+    },
+    {
+        "question": "What are the signs of a food allergy?",
+        "answer": "Hives, swelling, difficulty breathing, or digestive issues after eating certain foods."
+    },
+    {
+        "question": "How do I manage an anxiety attack?",
+        "answer": "Practice deep breathing, stay grounded, and try to focus on calming thoughts."
+    },
+    {
+        "question": "What are the symptoms of a urinary tract infection (UTI)?",
+        "answer": "Painful urination, frequent urge to urinate, and lower abdominal pain."
+    },
+    {
+        "question": "How can I reduce my risk of heart disease?",
+        "answer": "Eat a heart-healthy diet, exercise, avoid smoking, and manage stress."
+    },
+    {
+        "question": "What causes dry, flaky scalp?",
+        "answer": "Dandruff, psoriasis, eczema, or product buildup."
+    },
+    {
+        "question": "How can I reduce joint pain?",
+        "answer": "Stay active, maintain a healthy weight, and use heat or cold therapy."
+    },
+    {
+        "question": "What are the signs of a vitamin D deficiency?",
+        "answer": "Fatigue, bone pain, muscle weakness, and mood changes."
+    },
+    {
+        "question": "How do I treat a bruise faster?",
+        "answer": "Apply ice, elevate the affected area, and rest."
+    },
+    {
+        "question": "What causes night cramps?",
+        "answer": "Dehydration, muscle overuse, or low levels of certain minerals like magnesium."
+    },
+    {
+        "question": "How can I manage arthritis pain?",
+        "answer": "Stay active, use anti-inflammatory medications, and apply heat or cold therapy."
+    },
+    {
+        "question": "What are the symptoms of fibromyalgia?",
+        "answer": "Widespread pain, fatigue, sleep disturbances, and memory issues."
+    },
+    {
+        "question": "How can I prevent headaches during pregnancy?",
+        "answer": "Stay hydrated, eat regular meals, and get enough rest."
+    },
+    {
+        "question": "What causes muscle twitches?",
+        "answer": "Stress, fatigue, dehydration, or vitamin deficiencies."
+    },
+    {
+        "question": "How can I prevent ear infections?",
+        "answer": "Keep ears dry, avoid exposure to smoke, and manage allergies."
+    },
+    {
+        "question": "What are the signs of high blood sugar?",
+        "answer": "Increased thirst, frequent urination, blurred vision, and fatigue."
+    },
+    {
+        "question": "How do I manage premenstrual syndrome (PMS)?",
+        "answer": "Exercise, eat a balanced diet, and consider taking magnesium or calcium supplements."
+    },
+    {
+        "question": "What causes swollen feet?",
+        "answer": "Prolonged standing, pregnancy, or medical conditions like heart or kidney disease."
+    },
+    {
+        "question": "How can I manage gout symptoms?",
+        "answer": "Avoid high-purine foods, stay hydrated, and take prescribed medications."
+    },
+    {
+        "question": "What are the symptoms of hypothyroidism?",
+        "answer": "Fatigue, weight gain, cold intolerance, and dry skin."
+    },
+    {
+        "question": "How do I prevent dehydration in the elderly?",
+        "answer": "Offer fluids regularly, provide a variety of drinks, and encourage fluid-rich foods."
+    },
+    {
+        "question": "What causes frequent hiccups?",
+        "answer": "Eating too fast, carbonated beverages, or sudden excitement."
+    },
+    {
+        "question": "How can I improve my mental health?",
+        "answer": "Stay physically active, talk to someone, practice mindfulness, and get enough sleep."
+    },
+    {
+        "question": "What are the signs of a vitamin B12 deficiency?",
+        "answer": "Fatigue, weakness, pale skin, and numbness in hands or feet."
+    },
+    {
+        "question": "How do I treat a dry cough?",
+        "answer": "Stay hydrated, use honey, and consider a humidifier or steam inhalation."
+    },
+    {
+        "question": "What causes frequent migraines?",
+        "answer": "Stress, lack of sleep, certain foods, or hormonal changes."
+    },
+    {
+        "question": "How can I avoid overeating?",
+        "answer": "Eat mindfully, control portion sizes, and avoid distractions while eating."
+    },
+    {
+        "question": "What are the symptoms of dehydration in babies?",
+        "answer": "Fewer wet diapers, dry mouth, and lethargy."
+    },
+    {
+        "question": "How do I manage hay fever symptoms?",
+        "answer": "Use antihistamines, avoid pollen, and keep windows closed during high pollen times."
+    },
+    {
+        "question": "What causes sudden dizziness?",
+        "answer": "Dehydration, low blood pressure, or inner ear problems."
+    },
+    {
+        "question": "How can I prevent ingrown hairs?",
+        "answer": "Exfoliate regularly, shave in the direction of hair growth, and avoid tight clothing."
+    },
+    {
+        "question": "What are the signs of an eye infection?",
+        "answer": "Redness, pain, discharge, and sensitivity to light."
+    },
+    {
+        "question": "How do I prevent motion sickness?",
+        "answer": "Avoid reading while traveling, focus on the horizon, and stay hydrated."
+    },
+    {
+        "question": "What causes skin tags?",
+        "answer": "Friction, hormonal changes, or genetics."
+    },
+    {
+        "question": "How can I reduce the risk of asthma attacks?",
+        "answer": "Avoid triggers, take prescribed medications, and stay active within limits."
+    },
+    {
+        "question": "What are the symptoms of an allergic reaction to medication?",
+        "answer": "Rash, itching, swelling, difficulty breathing, or anaphylaxis."
+    },
+    {
+        "question": "How can I prevent stress-induced headaches?",
+        "answer": "Practice relaxation techniques, manage stress, and stay hydrated."
+    },
+    {
+        "question": "What causes restless legs syndrome?",
+        "answer": "Iron deficiency, pregnancy, or chronic diseases such as diabetes."
+    },
+    {
+        "question": "How do I manage cold sores naturally?",
+        "answer": "Apply ice or aloe vera, use lemon balm, and avoid touching the sore."
+    },
+    {
+        "question": "What are the signs of a vitamin E deficiency?",
+        "answer": "Muscle weakness, vision problems, and difficulty with coordination."
+    },
+    {
+        "question": "How can I relieve sinus congestion?",
+        "answer": "Use a saline nasal spray, humidify the air, or apply a warm compress."
+    },
+    {
+        "question": "What causes frequent bloating?",
+        "answer": "Gas, food intolerances, constipation, or irritable bowel syndrome (IBS)."
+    },
+    {
+        "question": "How do I manage chronic pain?",
+        "answer": "Stay active, practice relaxation techniques, and use over-the-counter pain relievers as needed."
+    },
+    {
+        "question": "What are the symptoms of a stroke?",
+        "answer": "Sudden numbness, confusion, trouble seeing, dizziness, or loss of balance."
+    },
+    {
+        "question": "How can I prevent leg cramps at night?",
+        "answer": "Stretch before bed, stay hydrated, and ensure adequate intake of potassium and magnesium."
+    },
+    {
+        "question": "What causes excessive sweating?",
+        "answer": "Hyperhidrosis, anxiety, menopause, or certain medications."
+    },
+    {
+        "question": "How do I treat a yeast infection naturally?",
+        "answer": "Use probiotics, apply coconut oil, or consider a diluted tea tree oil solution."
+    },
+    {
+        "question": "What are the signs of a pinched nerve?",
+        "answer": "Numbness, tingling, and sharp pain that radiates down the limb."
+    },
+    {
+        "question": "How can I improve my sleep quality?",
+        "answer": "Maintain a consistent sleep schedule, create a relaxing bedtime routine, and avoid screens before bed."
+    },
+    {
+        "question": "What causes dark circles under the eyes?",
+        "answer": "Lack of sleep, genetics, aging, or dehydration."
+    },
+    {
+        "question": "How do I treat a sprained ankle?",
+        "answer": "Use the RICE method (Rest, Ice, Compression, Elevation) and avoid putting weight on it."
+    },
+    {
+        "question": "What are the symptoms of gluten intolerance?",
+        "answer": "Bloating, diarrhea, headaches, and fatigue after eating gluten-containing foods."
+    },
+    {
+        "question": "How can I prevent gallstones?",
+        "answer": "Maintain a healthy weight, eat a balanced diet, and avoid rapid weight loss."
+    },
+    {
+        "question": "What causes brittle nails?",
+        "answer": "Nutrient deficiencies, frequent exposure to water, or thyroid conditions."
+    },
+    {
+        "question": "How do I manage seasonal depression?",
+        "answer": "Get more sunlight, exercise regularly, and consider light therapy."
+    },
+    {
+        "question": "What are the signs of kidney stones?",
+        "answer": "Severe back or abdominal pain, nausea, and blood in urine."
+    },
+    {
+        "question": "How can I reduce my risk of colon cancer?",
+        "answer": "Eat a high-fiber diet, exercise, and get regular screenings."
+    },
+    {
+        "question": "What causes chapped lips?",
+        "answer": "Dehydration, cold weather, or excessive licking of the lips."
+    },
+    {
+        "question": "How do I relieve lower back pain?",
+        "answer": "Stretch, maintain good posture, and apply heat or ice packs."
+    },
+    {
+        "question": "What are the symptoms of a concussion?",
+        "answer": "Headache, dizziness, confusion, and nausea after a head injury."
+    },
+    {
+        "question": "How can I prevent swimmer’s ear?",
+        "answer": "Keep ears dry, use earplugs, and avoid inserting objects into the ear canal."
+    },
+    {
+        "question": "What causes frequent urination at night?",
+        "answer": "Drinking too much fluid before bed, diabetes, or bladder issues."
+    },
+    {
+        "question": "How do I treat minor burns?",
+        "answer": "Run under cool water, apply aloe vera or honey, and cover with a clean bandage."
+    },
+    {
+        "question": "What are the signs of dehydration in older adults?",
+        "answer": "Dry skin, confusion, low urine output, and dizziness."
+    },
+    {
+        "question": "How can I reduce the risk of varicose veins?",
+        "answer": "Exercise, elevate your legs, and avoid prolonged sitting or standing."
+    },
+    {
+        "question": "What causes blood clots?",
+        "answer": "Inactivity, surgery, certain medications, or medical conditions like clotting disorders."
+    },
+    {
+        "question": "How do I prevent cold sores from recurring?",
+        "answer": "Manage stress, avoid triggers, and take antiviral medications if prescribed."
+    },
+    {
+        "question": "What are the symptoms of a foodborne illness?",
+        "answer": "Nausea, vomiting, diarrhea, and stomach cramps."
+    },
+    {
+        "question": "How can I manage high cholesterol naturally?",
+        "answer": "Eat a diet rich in fruits, vegetables, and whole grains, and exercise regularly."
+    },
+    {
+        "question": "What causes frequent nosebleeds?",
+        "answer": "Dry air, allergies, nasal infections, or trauma."
+    },
+    {
+        "question": "How do I prevent osteoporosis?",
+        "answer": "Eat calcium and vitamin D-rich foods, exercise, and avoid smoking and excessive alcohol."
+    },
+    {
+        "question": "What are the signs of depression in teenagers?",
+        "answer": "Irritability, changes in sleep and eating habits, and withdrawal from activities they used to enjoy."
+    },
+    {
+        "question": "How can I reduce my risk of bladder infections?",
+        "answer": "Stay hydrated, urinate after intercourse, and avoid holding in urine for long periods."
+    },
+    {
+        "question": "What causes chronic dry mouth?",
+        "answer": "Medications, dehydration, or medical conditions like diabetes or Sjögren’s syndrome."
+    },
+    {
+        "question": "How do I manage insomnia?",
+        "answer": "Create a bedtime routine, limit caffeine and screen time, and try relaxation techniques."
+    },
+    {
+        "question": "What are the symptoms of irritable bowel syndrome (IBS)?",
+        "answer": "Abdominal pain, bloating, diarrhea, or constipation."
+    },
+    {
+        "question": "How can I prevent acne breakouts?",
+        "answer": "Wash your face twice daily, avoid touching your face, and use non-comedogenic products."
+    },
+    {
+        "question": "What causes joint stiffness?",
+        "answer": "Arthritis, injury, or overuse of the joint."
+    },
+    {
+        "question": "How do I manage chronic sinusitis?",
+        "answer": "Use nasal sprays, humidifiers, and consider allergy management or sinus surgery if needed."
+    },
+    {
+        "question": "What are the signs of prediabetes?",
+        "answer": "Increased thirst, frequent urination, fatigue, and blurred vision."
+    },
+    {
+        "question": "How can I reduce the risk of heart disease?",
+        "answer": "Eat a balanced diet, exercise, avoid smoking, and manage stress."
+    },
+    {
+        "question": "What causes chronic bad breath?",
+        "answer": "Poor oral hygiene, gum disease, or digestive issues."
+    },
+    {
+        "question": "How do I prevent athlete’s foot?",
+        "answer": "Keep feet dry, wear breathable shoes, and avoid walking barefoot in public areas."
+    },
+    {
+        "question": "What are the symptoms of chronic fatigue syndrome?",
+        "answer": "Extreme tiredness, muscle pain, and difficulty concentrating."
+    },
+    {
+        "question": "How can I manage high blood pressure without medication?",
+        "answer": "Eat a healthy diet, reduce sodium intake, exercise regularly, and manage stress."
+    },
+    {
+        "question": "What causes sudden weight loss?",
+        "answer": "Stress, hyperthyroidism, diabetes, or gastrointestinal issues."
+    },
+    {
+        "question": "How can I improve my gut health?",
+        "answer": "Eat more fiber, take probiotics, and stay hydrated."
+    },
+    {
+        "question": "What are the signs of a heart attack?",
+        "answer": "Chest pain, shortness of breath, sweating, and nausea."
+    },
+    {
+        "question": "How do I manage an asthma attack?",
+        "answer": "Use your rescue inhaler, sit upright, and breathe slowly."
+    },
+    {
+        "question": "What causes hair loss in women?",
+        "answer": "Hormonal changes, stress, nutritional deficiencies, or medical conditions."
+    },
+    {
+        "question": "How can I treat minor acne at home?",
+        "answer": "Cleanse gently, use benzoyl peroxide, and avoid picking."
+    },
+    {
+        "question": "What are the symptoms of a thyroid disorder?",
+        "answer": "Weight changes, fatigue, hair loss, and temperature sensitivity."
+    },
+    {
+        "question": "How do I reduce my risk of diabetes?",
+        "answer": "Maintain a healthy weight, exercise regularly, and eat a balanced diet."
+    },
+    {
+        "question": "What causes a rash on my skin?",
+        "answer": "Allergies, infections, or skin conditions like eczema or psoriasis."
+    },
+    {
+        "question": "How can I improve my cholesterol levels?",
+        "answer": "Eat healthy fats, exercise, and avoid trans fats."
+    },
+    {
+        "question": "What are the signs of a urinary tract infection in men?",
+        "answer": "Pain during urination, frequent urge to urinate, and pelvic pain."
+    },
+    {
+        "question": "How do I manage symptoms of menopause?",
+        "answer": "Stay active, eat healthy, and discuss hormone therapy with a doctor."
+    },
+    {
+        "question": "What causes nausea after eating?",
+        "answer": "Overeating, food intolerances, or gastrointestinal disorders."
+    },
+    {
+        "question": "How can I reduce inflammation in my body?",
+        "answer": "Eat anti-inflammatory foods, exercise, and manage stress."
+    },
+    {
+        "question": "What are the signs of a kidney infection?",
+        "answer": "Fever, back pain, frequent urination, and pain during urination."
+    },
+    {
+        "question": "How do I treat eczema naturally?",
+        "answer": "Keep skin moisturized, avoid triggers, and use gentle cleansers."
+    },
+    {
+        "question": "What causes a persistent cough?",
+        "answer": "Allergies, asthma, or respiratory infections."
+    },
+    {
+        "question": "How can I improve my mental focus?",
+        "answer": "Stay organized, take breaks, and practice mindfulness."
+    },
+    {
+        "question": "What are the symptoms of bipolar disorder?",
+        "answer": "Mood swings, changes in energy levels, and difficulty concentrating."
+    },
+    {
+        "question": "How do I manage chronic fatigue?",
+        "answer": "Balance activity and rest, prioritize sleep, and manage stress."
+    },
+    {
+        "question": "What causes joint pain in the morning?",
+        "answer": "Arthritis, sleep position, or inflammation."
+    },
+    {
+        "question": "How can I reduce my alcohol intake?",
+        "answer": "Set limits, find alternatives, and avoid triggers."
+    },
+    {
+        "question": "What are the signs of dehydration in children?",
+        "answer": "Dry mouth, lack of tears, and irritability."
+    },
+    {
+        "question": "How do I treat an allergic reaction?",
+        "answer": "Take antihistamines, avoid allergens, and seek medical help if severe."
+    },
+    {
+        "question": "What causes excessive hair growth in women?",
+        "answer": "Hormonal imbalances, polycystic ovary syndrome (PCOS), or certain medications."
+    },
+    {
+        "question": "How can I manage my stress levels?",
+        "answer": "Practice relaxation techniques, exercise, and talk to someone."
+    },
+    {
+        "question": "What are the symptoms of an ear infection?",
+        "answer": "Ear pain, difficulty hearing, and fluid drainage."
+    },
+    {
+        "question": "How do I prevent dehydration during exercise?",
+        "answer": "Drink water before, during, and after your workout."
+    },
+    {
+        "question": "What causes digestive issues after eating?",
+        "answer": "Food intolerances, overeating, or gastrointestinal disorders."
+    },
+    {
+        "question": "How can I improve my immune system?",
+        "answer": "Eat a balanced diet, exercise, and get enough sleep."
+    },
+    {
+        "question": "What are the signs of a panic attack?",
+        "answer": "Rapid heartbeat, sweating, trembling, and feelings of doom."
+    },
+    {
+        "question": "How do I manage seasonal allergies?",
+        "answer": "Stay indoors during high pollen counts and take antihistamines."
+    },
+    {
+        "question": "What causes a loss of appetite?",
+        "answer": "Stress, depression, illness, or certain medications."
+    },
+    {
+        "question": "How can I support my liver health?",
+        "answer": "Limit alcohol intake, eat a healthy diet, and exercise regularly."
+    },
+    {
+        "question": "What are the symptoms of a concussion in children?",
+        "answer": "Headaches, confusion, balance issues, and mood changes."
+    },
+    {
+        "question": "How do I prevent food allergies in infants?",
+        "answer": "Introduce foods one at a time and consult a pediatrician."
+    },
+    {
+        "question": "What causes tingling in hands and feet?",
+        "answer": "Nerve compression, diabetes, or vitamin deficiencies."
+    },
+    {
+        "question": "How can I manage my weight effectively?",
+        "answer": "Keep a food diary, exercise regularly, and set realistic goals."
+    },
+    {
+        "question": "What are the signs of a severe allergic reaction?",
+        "answer": "Difficulty breathing, swelling of the face, and rapid heartbeat."
+    },
+    {
+        "question": "How do I treat athlete's foot?",
+        "answer": "Keep feet dry, use antifungal powder, and avoid sharing shoes."
+    },
+    {
+        "question": "What causes night sweats in women?",
+        "answer": "Hormonal changes, infections, or certain medications."
+    },
+    {
+        "question": "How can I improve my oral hygiene?",
+        "answer": "Brush twice a day, floss daily, and visit the dentist regularly."
+    },
+    {
+        "question": "What are the symptoms of gout?",
+        "answer": "Sudden joint pain, swelling, and redness, usually in the big toe."
+    },
+    {
+        "question": "How do I manage chronic pain without medication?",
+        "answer": "Physical therapy, acupuncture, and stress management techniques."
+    },
+    {
+        "question": "What causes frequent headaches?",
+        "answer": "Stress, dehydration, poor posture, or lack of sleep."
+    },
+    {
+        "question": "How can I reduce my sugar intake?",
+        "answer": "Read labels, choose whole foods, and avoid sugary drinks."
+    },
+    {
+        "question": "What are the signs of a blood clot in the leg?",
+        "answer": "Swelling, pain, warmth, and redness in one leg."
+    },
+    {
+        "question": "How do I treat a sunburn?",
+        "answer": "Apply aloe vera, stay hydrated, and avoid sun exposure."
+    },
+    {
+        "question": "What causes muscle spasms?",
+        "answer": "Dehydration, overuse, or muscle strain."
+    },
+    {
+        "question": "How can I improve my cardiovascular health?",
+        "answer": "Exercise regularly, eat a heart-healthy diet, and avoid smoking."
+    },
+    {
+        "question": "What are the symptoms of iron deficiency anemia?",
+        "answer": "Fatigue, pale skin, shortness of breath, and dizziness."
+    },
+    {
+        "question": "How do I manage a cold at home?",
+        "answer": "Rest, stay hydrated, and use over-the-counter medications for relief."
+    },
+    {
+        "question": "What causes ringing in the ears (tinnitus)?",
+        "answer": "Exposure to loud noises, ear infections, or age-related hearing loss."
+    },
+    {
+        "question": "How can I improve my skin's appearance?",
+        "answer": "Stay hydrated, use sunscreen, and follow a skincare routine."
+    },
+    {
+        "question": "What are the signs of an eating disorder?",
+        "answer": "Extreme weight loss, preoccupation with food, and social withdrawal."
+    },
+    {
+        "question": "How do I prevent fungal infections?",
+        "answer": "Keep skin dry, wear breathable clothing, and avoid sharing personal items."
+    },
+    {
+        "question": "What causes chest pain in adults?",
+        "answer": "Heart issues, anxiety, or gastrointestinal problems."
+    },
+    {
+        "question": "How can I manage my allergies at home?",
+        "answer": "Keep windows closed, use air purifiers, and wash bedding regularly."
+    },
+    {
+        "question": "What are the symptoms of a respiratory infection?",
+        "answer": "Cough, fever, sore throat, and fatigue."
+    },
+    {
+        "question": "How do I treat insomnia naturally?",
+        "answer": "Establish a bedtime routine, limit caffeine, and practice relaxation techniques."
+    },
+    {
+        "question": "What causes frequent nosebleeds in children?",
+        "answer": "Dry air, allergies, or nasal irritation."
+    },
+    {
+        "question": "How can I reduce my risk of stroke?",
+        "answer": "Maintain a healthy lifestyle, control blood pressure, and avoid smoking."
+    },
+    {
+        "question": "What are the signs of a concussion?",
+        "answer": "Headache, confusion, balance issues, and changes in mood."
+    },
+    {
+        "question": "How do I treat dry eyes?",
+        "answer": "Use artificial tears, take breaks from screens, and stay hydrated."
+    },
+    {
+        "question": "What causes abdominal pain after eating?",
+        "answer": "Indigestion, food intolerances, or gastrointestinal disorders."
+    },
+    {
+        "question": "How can I improve my lung health?",
+        "answer": "Quit smoking, exercise, and avoid exposure to pollutants."
+    },
+    {
+        "question": "What are the symptoms of celiac disease?",
+        "answer": "Bloating, diarrhea, fatigue, and skin rashes after consuming gluten."
+    },
+    {
+        "question": "How do I manage chronic sinus congestion?",
+        "answer": "Use saline nasal sprays, steam inhalation, and stay hydrated."
+    },
+    {
+        "question": "What causes fatigue in older adults?",
+        "answer": "Medical conditions, medications, or lifestyle factors."
+    },
+    {
+        "question": "How can I support my mental well-being?",
+        "answer": "Stay connected with others, practice gratitude, and seek help when needed."
+    },
+    {
+        "question": "What are the signs of a vitamin deficiency?",
+        "answer": "Fatigue, weakness, skin changes, and digestive issues."
+    },
+    {
+        "question": "How do I treat minor cuts and scrapes?",
+        "answer": "Clean the area, apply an antiseptic, and cover with a bandage."
+    },
+    {
+        "question": "What causes fatigue during pregnancy?",
+        "answer": "Hormonal changes, increased blood volume, and emotional stress."
+    },
+    {
+        "question": "How can I prevent travel-related illnesses?",
+        "answer": "Stay hydrated, avoid risky foods, and follow vaccination recommendations."
+    },
+    {
+        "question": "What are the symptoms of pancreatitis?",
+        "answer": "Abdominal pain, nausea, vomiting, and fever."
+    },
+    {
+        "question": "How do I manage back pain while working?",
+        "answer": "Use comfortable furniture that supports your body while working, take breaks, and practice good posture."
+    },
+    {
+        "question": "What causes food poisoning?",
+        "answer": "It happens when you eat contaminated (spoiled) food, germs, or toxins. Stay safe and wash your hands."
+    },
+    {
+        "question": "What should I do if I feel sick?",
+        "answer": "Rest, drink water, and see a doctor if it doesn’t get better."
+    },
+    {
+        "question": "How can I stay healthy?",
+        "answer": "Eat good food, move around a lot, and get enough sleep."
+    },
+    {
+        "question": "What’s a quick way to feel better when I have a headache?",
+        "answer": "Try drinking water and resting in a dark room."
+    },
+    {
+        "question": "What can I do for a cough?",
+        "answer": "Drink warm tea with honey or use a cough drop."
+    },
+    {
+        "question": "Why do I keep getting colds?",
+        "answer": "You might need to wash your hands more and avoid sick people."
+    },
+    {
+        "question": "How can I sleep better at night?",
+        "answer": "Go to bed at the same time every night and keep your room dark and quiet."
+    },
+    {
+        "question": "What’s the best way to lose weight?",
+        "answer": "Eat less junk food and get moving with exercise."
+    },
+    {
+        "question": "Why is my stomach upset?",
+        "answer": "It could be something you ate or stress. Try ginger tea."
+    },
+    {
+        "question": "What can I do to feel less stressed?",
+        "answer": "Take deep breaths, go for a walk, or talk to someone."
+    },
+    {
+        "question": "How do I know if I’m dehydrated?",
+        "answer": "If you’re very thirsty, have dry lips, or feel tired, drink some water!"
+    },
+    {
+        "question": "What should I do if I burn myself?",
+        "answer": "Run cold water over it and cover it with a clean cloth."
+    },
+    {
+        "question": "Why do I have itchy skin?",
+        "answer": "You might have dry skin or an allergy. Try moisturizing it."
+    },
+    {
+        "question": "What’s a good way to boost my mood?",
+        "answer": "Listen to music, watch something funny, or spend time with friends."
+    },
+    {
+        "question": "How can I tell if I have allergies?",
+        "answer": "If you sneeze, itch, or feel stuffy after being around dust or pollen, you might have allergies."
+    },
+    {
+        "question": "What should I do for a stuffy nose?",
+        "answer": "Use a saline spray or inhale steam from a hot shower."
+    },
+    {
+        "question": "How do I deal with heartburn (acid reflux)?",
+        "answer": "Avoid spicy foods and try some antacids."
+    },
+    {
+        "question": "What can I take for a fever?",
+        "answer": "You can take over-the-counter medicine like acetaminophen."
+    },
+    {
+        "question": "Why do I feel tired all the time?",
+        "answer": "You might not be sleeping enough or could be stressed."
+    },
+    {
+        "question": "How can I make my hair healthier?",
+        "answer": "Eat good foods, avoid too much heat, and keep it clean."
+    },
+    {
+        "question": "What should I do if I have bad breath?",
+        "answer": "Brush your teeth, use mouthwash, and stay hydrated."
+    },
+    {
+        "question": "How do I keep my teeth healthy?",
+        "answer": "Brush twice a day, floss, and visit the dentist regularly."
+    },
+    {
+        "question": "What can I do for dry eyes?",
+        "answer": "Use eye drops and take breaks from screens."
+    },
+    {
+        "question": "Why do I get tired after eating?",
+        "answer": "It could be because of what you ate; try eating smaller meals."
+    },
+    {
+        "question": "What are some signs I might be depressed?",
+        "answer": "Feeling sad all the time, losing interest in things, or having trouble sleeping."
+    },
+    {
+        "question": "How can I prevent getting sick?",
+        "answer": "Wash your hands, eat well, and get enough rest."
+    },
+    {
+        "question": "What should I do if I see blood in my pee?",
+        "answer": "Go to a doctor right away; it could be serious."
+    },
+    {
+        "question": "How can I relieve a sore throat?",
+        "answer": "Drink warm liquids and try throat lozenges."
+    },
+    {
+        "question": "Why does my back hurt?",
+        "answer": "It could be from sitting too long or lifting something heavy."
+    },
+    {
+        "question": "What can I do if I feel anxious?",
+        "answer": "Take deep breaths, talk to someone, or try to relax."
+    },
+    {
+        "question": "How can I help my child with a fever?",
+        "answer": "Give them plenty of fluids and a fever reducer if needed."
+    },
+    {
+        "question": "What should I do if I have diarrhea?",
+        "answer": "Drink lots of fluids and eat bland foods like rice or bananas."
+    },
+    {
+        "question": "How can I tell if I’m getting sick?",
+        "answer": "If you feel tired, have a headache, or your throat hurts, watch out!"
+    },
+    {
+        "question": "What can I do to keep my heart healthy?",
+        "answer": "Exercise, eat fruits and veggies, and don’t smoke."
+    },
+    {
+        "question": "What’s a quick way to boost my energy?",
+        "answer": "Have a healthy snack like nuts or fruit."
+    },
+    {
+        "question": "How do I deal with muscle cramps?",
+        "answer": "Stretch the muscle and drink water."
+    },
+    {
+        "question": "What are the signs of dehydration?",
+        "answer": "Thirst, dry mouth, and dark yellow pee."
+    },
+    {
+        "question": "How can I improve my memory?",
+        "answer": "Keep your brain active with puzzles and get enough sleep."
+    },
+    {
+        "question": "What should I do if I feel faint?",
+        "answer": "Sit down, drink water, and take deep breaths."
+    },
+    {
+        "question": "How can I get rid of pimples?",
+        "answer": "Keep your face clean and use acne treatments."
+    },
+    {
+        "question": "What are the signs of a heart problem?",
+        "answer": "Chest pain, shortness of breath, and extreme fatigue."
+    },
+    {
+        "question": "How can I make my skin glow?",
+        "answer": "Stay hydrated, eat fresh fruits, and use moisturizer."
+    },
+    {
+        "question": "What can I do if I have a headache?",
+        "answer": "Rest in a quiet place and drink some water."
+    },
+    {
+        "question": "How do I know if I have high blood pressure?",
+        "answer": "You need to get it checked at a doctor’s office."
+    },
+    {
+        "question": "What can I take for allergies?",
+        "answer": "Antihistamines can help with sneezing and itching."
+    },
+    {
+        "question": "How do I prevent athlete's foot?",
+        "answer": "Keep your feet dry and wear breathable shoes."
+    },
+    {
+        "question": "What’s a good way to deal with stress?",
+        "answer": "Try yoga, meditation, or just taking a walk."
+    },
+    {
+        "question": "What are the signs of a stroke?",
+        "answer": "Sudden weakness, confusion, and trouble speaking."
+    },
+    {
+        "question": "How can I help my immune system?",
+        "answer": "Eat well, exercise, and get enough sleep."
+    },
+    {
+        "question": "What should I do for a mild burn?",
+        "answer": "Cool it under running water and apply aloe vera."
+    },
+    {
+        "question": "How do I know if I have a UTI?",
+        "answer": "If it hurts to pee and you go often, see a doctor."
+    },
+    {
+        "question": "What can I do to feel more energetic?",
+        "answer": "Move around more and eat healthy snacks."
+    },
+    {
+        "question": "What’s the best way to treat a cold?",
+        "answer": "Rest, drink fluids, and use over-the-counter meds."
+    },
+    {
+        "question": "How do I handle stress at work?",
+        "answer": "Take breaks, stay organized, and talk to someone if needed."
+    },
+    {
+        "question": "What are the signs of a food allergy?",
+        "answer": "Swelling, itching, and stomach pain after eating."
+    },
+    {
+        "question": "How can I manage my weight?",
+        "answer": "Eat healthy, stay active, and keep track of what you eat."
+    },
+    {
+        "question": "What should I do if I have a rash?",
+        "answer": "Keep it clean and try to avoid scratching it."
+    },
+    {
+        "question": "How do I prevent seasonal allergies?",
+        "answer": "Stay indoors on high pollen days and keep windows closed."
+    },
+    {
+        "question": "What can I do for a runny nose?",
+        "answer": "Use tissues and try a saline nasal spray."
+    },
+    {
+        "question": "How do I improve my digestion?",
+        "answer": "Eat more fiber and drink plenty of water."
+    },
+    {
+        "question": "What’s a good snack for energy?",
+        "answer": "Nuts, fruit, or yogurt are great choices."
+    },
+    {
+        "question": "How can I tell if I’m stressed?",
+        "answer": "If you’re feeling overwhelmed, anxious, or tired a lot, you might be stressed."
+    },
+    {
+        "question": "What should I do if I can’t stop sneezing?",
+        "answer": "Try to avoid allergens and take antihistamines."
+    },
+    {
+        "question": "How do I treat a headache without medicine?",
+        "answer": "Rest, drink water, and try a cold pack on your forehead."
+    },
+    {
+        "question": "What are some signs I might need to see a doctor?",
+        "answer": "If symptoms last too long or if you're really worried."
+    },
+    {
+        "question": "How can I help my child with a stomach ache?",
+        "answer": "Give them warm tea and encourage them to rest."
+    },
+    {
+        "question": "What can I do to stop my nails from breaking?",
+        "answer": "Keep them trimmed and use moisturizer."
+    },
+    {
+        "question": "How do I know if I have asthma?",
+        "answer": "If you have trouble breathing or wheezing, see a doctor."
+    },
+    {
+        "question": "What should I do for a sore back?",
+        "answer": "Rest, apply heat, and avoid heavy lifting."
+    },
+    {
+        "question": "How can I improve my skin if it’s oily?",
+        "answer": "Use a gentle cleanser and oil-free products."
+    },
+    {
+        "question": "What’s a good way to relax before bed?",
+        "answer": "Read a book or listen to calm music."
+    },
+    {
+        "question": "What causes bad breath?",
+        "answer": "Poor dental hygiene or certain foods can lead to it."
+    },
+    {
+        "question": "How can I tell if I have a sinus infection?",
+        "answer": "If you have facial pain, a stuffy nose, and fever."
+    },
+    {
+        "question": "What should I do if I feel faint?",
+        "answer": "Sit down, drink some water, and rest."
+    },
+    {
+        "question": "How can I keep my bones strong?",
+        "answer": "Eat calcium-rich foods and exercise regularly."
+    },
+    {
+        "question": "How do I tell if I’m allergic to something?",
+        "answer": "If you have itching, swelling, or a rash after touching or eating something."
+    },
+    {
+        "question": "What can I do for a fever?",
+        "answer": "Rest, drink fluids, and you can take fever reducers if needed."
+    },
+    {
+        "question": "How can I keep my skin from getting dry?",
+        "answer": "Use lotion after washing and drink plenty of water."
+    },
+    {
+        "question": "What should I do if I feel dizzy?",
+        "answer": "Sit or lie down and drink some water."
+    },
+    {
+        "question": "How do I know if I have a urinary tract infection (UTI)?",
+        "answer": "If it hurts to pee and you have to go a lot, see a doctor."
+    },
+    {
+        "question": "What can help with joint pain?",
+        "answer": "Gentle exercises, hot or cold packs, and staying active."
+    },
+    {
+        "question": "How can I keep my hair healthy?",
+        "answer": "Wash it regularly, avoid too much heat, and eat healthy foods."
+    },
+    {
+        "question": "What’s a simple way to eat healthier?",
+        "answer": "Add more fruits and veggies to your meals."
+    },
+    {
+        "question": "How can I make friends as an adult?",
+        "answer": "Join clubs, volunteer, or take a class in something you like."
+    },
+    {
+        "question": "What should I do if I have a toothache?",
+        "answer": "Rinse with warm salt water and see a dentist if it doesn’t go away."
+    },
+    {
+        "question": "How do I handle a bad mood?",
+        "answer": "Go for a walk, talk to someone, or listen to your favorite music."
+    },
+    {
+        "question": "What can I do to improve my mood?",
+        "answer": "Spend time with friends, exercise, or do something you enjoy."
+    },
+    {
+        "question": "What are the signs of high cholesterol?",
+        "answer": "Often there aren’t symptoms, so regular check-ups are important."
+    },
+    {
+        "question": "How can I treat a hangover?",
+        "answer": "Drink lots of water and rest. Eating something light can help, too."
+    },
+    {
+        "question": "What’s the best way to get rid of stress?",
+        "answer": "Take time for yourself, practice relaxation techniques, and talk about your feelings."
+    },
+    {
+        "question": "How do I know if I need to lose weight?",
+        "answer": "If you feel tired often or have trouble doing daily activities, it might be time to think about it."
+    },
+    {
+        "question": "What can help me focus better?",
+        "answer": "Take breaks, find a quiet place, and try to limit distractions."
+    },
+    {
+        "question": "How can I help my child with anxiety?",
+        "answer": "Listen to them, encourage them to talk about their feelings, and seek help if needed."
+    },
+    {
+        "question": "What should I do if I have a migraine?",
+        "answer": "Rest in a dark room and try over-the-counter pain relief."
+    },
+    {
+        "question": "How do I know if I have diabetes?",
+        "answer": "If you’re very thirsty, urinate a lot, or feel very tired, see a doctor."
+    },
+    {
+        "question": "What’s a good way to keep my brain sharp?",
+        "answer": "Try puzzles, read, and learn new things."
+    },
+    {
+        "question": "How can I reduce my screen time?",
+        "answer": "Set limits for yourself and find other activities you enjoy."
+    },
+    {
+        "question": "What are the signs of dehydration?",
+        "answer": "Thirst, dry mouth, dark pee, and feeling tired."
+    },
+    {
+        "question": "How can I manage my weight?",
+        "answer": "Eat healthy foods, exercise regularly, and keep track of what you eat."
+    },
+    {
+        "question": "What should I do if I have a fever?",
+        "answer": "Rest, drink lots of fluids, and take medicine if it gets too high."
+    },
+    {
+        "question": "What are the signs I might have a cold?",
+        "answer": "Sneezing, runny nose, and feeling tired or achy."
+    },
+    {
+        "question": "How do I deal with a stuffy nose?",
+        "answer": "Use a saline spray and try to breathe steam from a hot shower."
+    },
+    {
+        "question": "What can I do to support my mental health?",
+        "answer": "Talk to friends, practice self-care, and consider therapy."
+    },
+    {
+        "question": "How do I know if I’m getting enough vitamins?",
+        "answer": "If you feel tired or have other health issues, you might need more."
+    },
+    {
+        "question": "What should I do if I cut myself?",
+        "answer": "Clean the cut, apply a bandage, and keep an eye on it for infection."
+    },
+    {
+        "question": "How can I stay active at home?",
+        "answer": "Do simple exercises like jumping jacks, squats, or dance around."
+    },
+    {
+        "question": "What are the signs of an ear infection?",
+        "answer": "Ear pain, trouble hearing, and sometimes a fever."
+    },
+    {
+        "question": "How do I treat a sore throat?",
+        "answer": "Drink warm liquids and try throat lozenges or honey."
+    },
+    {
+        "question": "What’s a good way to eat on a budget?",
+        "answer": "Plan meals, buy in bulk, and cook at home more often."
+    },
+    {
+        "question": "How can I make my nails stronger?",
+        "answer": "Keep them trimmed, moisturize your hands, and avoid biting."
+    },
+    {
+        "question": "What are some signs of a serious illness?",
+        "answer": "Sudden weight loss, severe pain, or persistent symptoms like coughing."
+    },
+    {
+        "question": "How do I improve my sleep quality?",
+        "answer": "Stick to a sleep schedule and create a relaxing bedtime routine."
+    },
+    {
+        "question": "What can I do for chapped lips?",
+        "answer": "Use lip balm and drink plenty of water."
+    },
+    {
+        "question": "How can I tell if I have a fever?",
+        "answer": "Use a thermometer; if your temperature is over 100°F (37.8°C), you may have a fever."
+    },
+    {
+        "question": "What should I do if I feel overwhelmed?",
+        "answer": "Take deep breaths, write down your feelings, and talk to someone."
+    },
+    {
+        "question": "How can I stay motivated to exercise?",
+        "answer": "Set small goals, find a workout buddy, and try different activities."
+    },
+    {
+        "question": "What are the signs of a cold sore?",
+        "answer": "Tingling, itching, and a small blister around the lips."
+    },
+    {
+        "question": "How do I prevent getting sunburned?",
+        "answer": "Use sunscreen, wear a hat, and stay in the shade."
+    },
+    {
+        "question": "What can I do to help with anxiety?",
+        "answer": "Practice deep breathing, talk to someone, or try mindfulness."
+    },
+    {
+        "question": "How can I support my child’s learning?",
+        "answer": "Help with homework, read together, and encourage questions."
+    },
+    {
+        "question": "What are the signs of dehydration in kids?",
+        "answer": "Thirst, dry mouth, and they might be less active than usual."
+    },
+    {
+        "question": "How do I treat minor skin cuts?",
+        "answer": "Clean the area, apply antibiotic ointment, and cover it with a bandage."
+    },
+    {
+        "question": "What can I do for tired eyes?",
+        "answer": "Take breaks from screens and use artificial tears if needed."
+    },
+    {
+        "question": "How can I improve my concentration?",
+        "answer": "Eliminate distractions and take short breaks to refresh your mind."
+    },
+    {
+        "question": "What should I do if I have a stomach ache?",
+        "answer": "Rest, drink ginger tea, and eat light foods."
+    },
+    {
+        "question": "How can I help my kids stay active?",
+        "answer": "Encourage outdoor play and limit screen time."
+    },
+    {
+        "question": "What are some signs of a heart attack?",
+        "answer": "Chest pain, shortness of breath, and discomfort in the arms or jaw."
+    },
+    {
+        "question": "How do I prevent cavities?",
+        "answer": "Brush twice a day, floss daily, and limit sugary snacks."
+    },
+    {
+        "question": "What should I do for a mild allergic reaction?",
+        "answer": "Take antihistamines and avoid the allergen."
+    },
+    {
+        "question": "How can I keep my home clean to avoid germs?",
+        "answer": "Regularly wipe down surfaces and wash your hands often."
+    },
+    {
+        "question": "What are the signs of anxiety?",
+        "answer": "Restlessness, rapid heartbeat, and feeling overwhelmed."
+    },
+    {
+        "question": "How do I manage a cough at night?",
+        "answer": "Use a humidifier and try honey before bed."
+    },
+    {
+        "question": "What can I do to help my skin in winter?",
+        "answer": "Moisturize often and drink plenty of water."
+    },
+    {
+        "question": "How can I support someone who is depressed?",
+        "answer": "Listen, be there for them, and encourage them to seek help."
+    },
+    {
+        "question": "What’s the best way to keep kids healthy?",
+        "answer": "Encourage active play and provide nutritious meals."
+    },
+    {
+        "question": "How do I know if I have a sinus issue?",
+        "answer": "If you have facial pain, stuffy nose, and post-nasal drip."
+    },
+    {
+        "question": "What can I do if I have bad gas?",
+        "answer": "Avoid beans and carbonated drinks, and try to move around a bit."
+    },
+    {
+        "question": "How can I make my heart healthier?",
+        "answer": "Exercise regularly and eat a balanced diet low in saturated fats."
+    },
+    {
+        "question": "What are some signs of a urinary issue?",
+        "answer": "Painful urination, frequent urination, and cloudy urine."
+    },
+    {
+        "question": "How do I treat a cold?",
+        "answer": "Rest, drink fluids, and take over-the-counter meds if needed."
+    },
+    {
+        "question": "What can I do for swollen feet?",
+        "answer": "Elevate them, reduce salt intake, and take breaks from standing."
+    },
+    {
+        "question": "How can I help with my child's bedtime routine?",
+        "answer": "Create a calm environment and read a story before bed."
+    },
+    {
+        "question": "What should I do if I suspect food poisoning?",
+        "answer": "Stay hydrated and see a doctor if symptoms are severe."
+    },
+    {
+        "question": "How do I know if I’m too stressed?",
+        "answer": "If you feel irritable, anxious, or have trouble sleeping."
+    },
+    {
+        "question": "What can I do for an itchy scalp?",
+        "answer": "Use a gentle shampoo and avoid scratching."
+    },
+    {
+        "question": "How can I support my friend who is sick?",
+        "answer": "Offer to help with meals or just check in on them."
+    },
+    {
+        "question": "What are some signs of depression?",
+        "answer": "Feeling sad, losing interest in activities, and changes in sleep."
+    },
+    {
+        "question": "How do I keep my energy up during the day?",
+        "answer": "Take short breaks, move around, and eat small snacks."
+    },
+    {
+        "question": "What can help with dry skin in winter?",
+        "answer": "Use a thick moisturizer and drink more water."
+    },
+    {
+        "question": "How can I tell if I need to see a doctor?",
+        "answer": "If you have persistent symptoms or feel really unwell."
+    },
+    {
+        "question": "What should I do for a migraine?",
+        "answer": "Rest in a dark room and try to avoid triggers."
+    },
+    {
+        "question": "How do I prevent blisters?",
+        "answer": "Wear well-fitting shoes and keep your feet dry."
+    },
+    {
+        "question": "What’s a good way to manage my time better?",
+        "answer": "Make a to-do list and set priorities for your tasks."
+    },
+    {
+        "question": "How can I deal with stress at school?",
+        "answer": "Take breaks, talk to teachers, and organize your work."
+    },
+    {
+        "question": "What are some signs I might have a stomach bug?",
+        "answer": "Nausea, vomiting, and diarrhea are common symptoms."
+    },
+    {
+        "question": "How do I help my child with their homework?",
+        "answer": "Create a quiet space and encourage them to ask questions."
+    },
+    {
+        "question": "What can I do for dry hands?",
+        "answer": "Use hand cream often and avoid harsh soaps."
+    },
+    {
+        "question": "How can I support a friend who is anxious?",
+        "answer": "Be patient, listen, and encourage them to talk about their feelings."
+    },
+    {
+        "question": "What should I do if I feel overwhelmed with work?",
+        "answer": "Take breaks, prioritize tasks, and ask for help if needed."
+    },
+    {
+        "question": "How do I treat minor burns?",
+        "answer": "Cool it under running water and apply aloe vera or a burn cream."
+    },
+    {
+        "question": "What can I do if I have trouble falling asleep?",
+        "answer": "Create a bedtime routine and avoid screens before bed."
+    },
+    {
+        "question": "How can I improve my eating habits?",
+        "answer": "Cook at home more and try to eat more fruits and veggies."
+    },
+    {
+        "question": "What are the signs of a panic attack?",
+        "answer": "Rapid heartbeat, sweating, and feeling dizzy or faint."
+    },
+    {
+        "question": "How can I keep my kids safe from germs?",
+        "answer": "Teach them to wash their hands regularly and avoid close contact with sick people."
+    },
+    {
+        "question": "What should I do for a rash?",
+        "answer": "Keep it clean, avoid scratching, and use cream if needed."
+    },
+    {
+        "question": "How can I help my child with fears?",
+        "answer": "Talk about their feelings and encourage them to face their fears gradually."
+    },
+    {
+        "question": "What can I do for muscle soreness?",
+        "answer": "Rest, apply ice, and gently stretch the muscles."
+    },
+    {
+        "question": "How do I know if I’m getting enough sleep?",
+        "answer": "If you wake up feeling rested and alert during the day."
+    },
+    {
+        "question": "What can I do to reduce my sugar intake?",
+        "answer": "Read labels, choose whole foods, and limit sweet drinks."
+    },
+    {
+        "question": "How do I handle conflict with friends?",
+        "answer": "Talk openly about your feelings and listen to their side."
+    },
+    {
+        "question": "What should I do if I’m feeling really down?",
+        "answer": "Talk to someone you trust and consider seeking professional help."
+    },
+    {
+        "question": "How can I improve my flexibility?",
+        "answer": "Stretch regularly and try yoga or pilates."
+    },
+    {
+        "question": "What are some signs that I’m stressed?",
+        "answer": "Irritability, headaches, and trouble sleeping can all be signs."
+    },
+    {
+        "question": "How do I treat a runny nose?",
+        "answer": "Use tissues and try saline drops if needed."
+    },
+    {
+        "question": "What should I do if my child has a fever?",
+        "answer": "Keep them comfortable, offer fluids, and consult a doctor if it’s high."
+    },
+    {
+        "question": "How can I boost my immune system?",
+        "answer": "Eat well, exercise, and get enough sleep."
+    },
+    {
+        "question": "What can I do for tired muscles after exercise?",
+        "answer": "Rest, stay hydrated, and apply heat or ice as needed."
+    },
+    {
+        "question": "How do I know if I’m too stressed?",
+        "answer": "If you’re feeling overwhelmed or have trouble sleeping, it might be time to take a break."
+    },
+    {
+        "question": "What can help with a toothache?",
+        "answer": "Rinse with warm salt water and see a dentist if the pain continues."
+    },
+    {
+        "question": "How can I support my child’s mental health?",
+        "answer": "Listen, encourage them to express their feelings, and seek help if needed."
+    },
+    {
+        "question": "What should I do for cold symptoms?",
+        "answer": "Rest, drink fluids, and consider over-the-counter medicine."
+    },
+    {
+        "question": "How can I keep my skin healthy?",
+        "answer": "Drink plenty of water, eat a balanced diet, and use sunscreen."
+    },
+    {
+        "question": "What’s a good way to relax after a long day?",
+        "answer": "Take a warm bath, read a book, or listen to music."
+    },
+    {
+        "question": "How do I know if I need glasses?",
+        "answer": "If you’re having trouble seeing things clearly, it’s time to see an eye doctor."
+    },
+    {
+        "question": "What can I do for a mild headache?",
+        "answer": "Drink water, rest in a dark room, and try a cold compress."
+    },
+    {
+        "question": "How do I help my child with homework struggles?",
+        "answer": "Provide a quiet space and help them break down tasks into smaller steps."
+    },
+    {
+        "question": "What should I do if I have a cold sore?",
+        "answer": "Use topical creams and avoid close contact with others until it heals."
+    },
+    {
+        "question": "How can I prevent the flu?",
+        "answer": "Get vaccinated, wash your hands, and avoid sick people."
+    },
+    {
+        "question": "What’s a simple way to eat healthier on a budget?",
+        "answer": "Plan meals and buy seasonal fruits and vegetables."
+    },
+    {
+        "question": "How do I know if I have a virus?",
+        "answer": "Symptoms like fever, cough, and body aches can indicate a virus."
+    },
+    {
+        "question": "What can I do if I’m feeling overwhelmed with life?",
+        "answer": "Take a break, prioritize tasks, and reach out for support."
+    },
+    {
+        "question": "How can I stay positive during tough times?",
+        "answer": "Focus on what you can control, talk to friends, and practice gratitude."
+    },
+    {
+        "question": "What’s a good way to deal with anger?",
+        "answer": "Take deep breaths, step away from the situation, and talk it out later."
+    },
+    {
+        "question": "How can I help my friend who is feeling down?",
+        "answer": "Be there to listen and offer your support, and encourage them to seek help if needed."
+    },
+    {
+        "question": "What should I do if I have trouble breathing?",
+        "answer": "If it’s severe, call for help or go to the doctor immediately."
+    },
+    {
+        "question": "How do I deal with muscle cramps during exercise?",
+        "answer": "Stretch the muscle gently and stay hydrated."
+    },
+    {
+        "question": "What can I do to improve my self-esteem?",
+        "answer": "Set small goals, celebrate your achievements, and surround yourself with supportive people."
+    },
+    {
+        "question": "How do I know if I’m in a toxic relationship?",
+        "answer": "If you feel more unhappy than happy and your partner is controlling or critical."
+    },
+    {
+        "question": "What should I do if I feel lonely?",
+        "answer": "Reach out to friends, join groups, or try new activities to meet people."
+    },
+    {
+        "question": "How can I help my kids understand healthy eating?",
+        "answer": "Involve them in cooking, teach them about nutrition, and make it fun!"
+    }
+]
