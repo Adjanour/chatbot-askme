@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException,Request,Depends
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import chromadb
@@ -18,7 +18,11 @@ logger = logging.getLogger(__name__)
 
 
 app = FastAPI(title="RAG API")
-app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_credentials=True, allow_methods=["*"],
+
+# Allow only the specific domain in CORS (modify as needed)
+ALLOWED_ORIGIN = "https://api.oziza.org"
+# ALLOWED_ORIGIN = "*"
+app.add_middleware(CORSMiddleware, allow_origins=[ALLOWED_ORIGIN], allow_credentials=True, allow_methods=["*"],
                    allow_headers=["*"])
 
 def get_secret(secret_name):
@@ -34,6 +38,12 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
 collection = chroma_client.get_or_create_collection(name="faq_collection")
 client = AsyncOpenAI(api_key=OPENAI_API_KEY)
+
+async def verify_origin(request: Request):
+    origin = request.headers.get("Origin")  # Get request origin
+    if origin != ALLOWED_ORIGIN:
+        logger.warning(f"Unauthorized access attempt from {origin}")
+        raise HTTPException(status_code=403, detail="Access denied")
 
 
 class Query(BaseModel):
@@ -92,15 +102,13 @@ async def startup_event():
 
 async def generate_answer(query: str, context: List[Dict]) -> str:
     try:
-        prompt = f"""Given the following FAQ entries and user question, provide a concise and relevant answer.
-        If the FAQ entries are not relevant, indicate that you cannot find a specific answer.
+        prompt = f"""You are a knowledgeable and helpful AI assistant specializing in health-related queries. Provide clear, accurate, and concise responses based on reliable information. Ensure your answers are well-structured and informative, without referencing any sources or prior knowledge explicitly.
+                FAQ Entries:
+                {context}
 
-        FAQ Entries:
-        {context}
+                User Question: {query}
 
-        User Question: {query}
-
-        Answer:"""
+                Answer:"""
 
         response = await client.chat.completions.create(
             model="gpt-4o-mini",
@@ -133,7 +141,7 @@ async def query_endpoint(query: Query):
 
 async def stream_generate_answer(query: str, context: List[Dict]) -> AsyncGenerator[str, None]:
     try:
-        prompt = f"""You are a conversational AI assistant specializing in health-related queries. Use the FAQ entries provided to answer the user's question concisely and accurately.
+        prompt = f"""You are a knowledgeable and helpful AI assistant specializing in health-related queries. Provide clear, accurate, and concise responses based on reliable information. Ensure your answers are well-structured and informative, without referencing any sources or prior knowledge explicitly.
                 FAQ Entries:
                 {context}
 
@@ -157,7 +165,7 @@ async def stream_generate_answer(query: str, context: List[Dict]) -> AsyncGenera
         yield f"data: {json.dumps({'error': str(e)})}\n\n"
 
 
-@app.post("/stream")
+@app.post("/stream", dependencies=[Depends(verify_origin)],)
 async def stream_endpoint(query: Query):
     try:
         query_embedding = get_embedding(query.text)
@@ -176,4 +184,4 @@ async def stream_endpoint(query: Query):
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8100)
